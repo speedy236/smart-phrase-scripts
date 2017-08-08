@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Användning av resekonversationen</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Alla länder (stater), där ni kan göra er förstådda med främmande språk från vår Resekonversation">
+<meta name="keywords" content="reseanvädning, utlandet, land, konversation, språk">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/nytta-rese-konversation-lander" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Användning av resekonversationen" />
+<meta property="og:description" content="Alla länder (stater), där ni kan göra er förstådda med främmande språk från vår Resekonversation" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Alla länder (stater), där ni kan göra er förstådda med främmande språk från vår Resekonversation" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Användning av resekonversationen" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Användning av resekonversationen">
+<meta itemprop="description" content="Alla länder (stater), där ni kan göra er förstådda med främmande språk från vår Resekonversation" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

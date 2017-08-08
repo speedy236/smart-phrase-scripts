@@ -1,0 +1,17 @@
+<div class="page-banner" style="padding:40px 0; background: url(../../images/travelers-phrasebook-banner.jpg) center #f9f9f9;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h1>Windows 8: 旅行常用会话指南支持和常见疑问</h1>
+				<p></p>
+			</div>
+			<div class="col-md-8">
+					<ul class="breadcrumbs">
+						<li><a href="/china-traveler-phrasebook">介绍SmartPhrase</a></li>
+						<li><a href="/china-support-phrase">旅行常用会话指南支持和常见疑问</a></li>
+						<li>Windows 8: 旅行常用会话指南支持和常见疑问</li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</div>

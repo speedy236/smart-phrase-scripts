@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Podrška i FAQ Priručnika za konverzaciju</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="U slučaju problema s aplikacijom, pitajte nas, mi ćemo vas savjetovati">
+<meta name="keywords" content="faq, podrška, aplikacija">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/podrska-fraze" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Podrška i FAQ Priručnika za konverzaciju" />
+<meta property="og:description" content="U slučaju problema s aplikacijom, pitajte nas, mi ćemo vas savjetovati" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="U slučaju problema s aplikacijom, pitajte nas, mi ćemo vas savjetovati" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Podrška i FAQ Priručnika za konverzaciju" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Podrška i FAQ Priručnika za konverzaciju">
+<meta itemprop="description" content="U slučaju problema s aplikacijom, pitajte nas, mi ćemo vas savjetovati" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

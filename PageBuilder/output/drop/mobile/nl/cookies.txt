@@ -1,0 +1,29 @@
+<div class="dropdown" id="language-switch-mobile">
+	<button class="btn btn-default btn-sm" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		<i class="flag-icon flag-icon-nl"></i> Nederlands
+	</button>
+	<ul class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index: 1001;">
+		<li><a href="/cz-cookies"><i class="flag-icon flag-icon-cz"></i> Česky</a></li>
+		<li><a href="/dk-cookies"><i class="flag-icon flag-icon-dk"></i> Dansk</a></li>
+		<li><a href="/de-cookies"><i class="flag-icon flag-icon-de"></i> Deutsch</a></li>
+		<li><a href="/us-cookies"><i class="flag-icon flag-icon-us"></i> English</a></li>
+		<li><a href="/es-cookies"><i class="flag-icon flag-icon-es"></i> Español</a></li>
+		<li><a href="/fr-cookies"><i class="flag-icon flag-icon-fr"></i> Français</a></li>
+		<li><a href="/hr-cookies"><i class="flag-icon flag-icon-hr"></i> Hrvatski</a></li>
+		<li><a href="/it-cookies"><i class="flag-icon flag-icon-it"></i> Italiano</a></li>
+		<li><a href="/hu-cookies"><i class="flag-icon flag-icon-hu"></i> Magyar</a></li>
+		<li><a href="/no-cookies"><i class="flag-icon flag-icon-no"></i> Norsk</a></li>
+		<li><a href="/pl-cookies"><i class="flag-icon flag-icon-pl"></i> Polski</a></li>
+		<li><a href="/pt-cookies"><i class="flag-icon flag-icon-pt"></i> Português</a></li>
+		<li><a href="/fi-cookies"><i class="flag-icon flag-icon-fi"></i> Suomeksi</a></li>
+		<li><a href="/se-cookies"><i class="flag-icon flag-icon-se"></i> Svenska</a></li>
+		<li><a href="/tr-cookies"><i class="flag-icon flag-icon-tr"></i> Türkçe</a></li>
+		<li><a href="/gr-cookies"><i class="flag-icon flag-icon-gr"></i> Ελληνικά</a></li>
+		<li><a href="/bg-cookies"><i class="flag-icon flag-icon-bg"></i> български</a></li>
+		<li><a href="/ru-cookies"><i class="flag-icon flag-icon-ru"></i> Русский</a></li>
+		<li><a href="/il-cookies"><i class="flag-icon flag-icon-il"></i> עברית</a></li>
+		<li><a href="/sa-cookies"><i class="flag-icon flag-icon-sa"></i> العربية</a></li>
+		<li><a href="/cn-cookies"><i class="flag-icon flag-icon-cn"></i> 中文</a></li>
+		<li><a href="/jp-cookies"><i class="flag-icon flag-icon-jp"></i> 日本語</a></li>
+	</ul>
+</div>

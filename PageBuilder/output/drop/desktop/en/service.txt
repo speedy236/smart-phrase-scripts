@@ -1,0 +1,8 @@
+<div class="dropdown" id="language-switch">
+	<button class="btn btn-default btn-sm" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		<i class="flag-icon flag-icon-us"></i> English
+	</button>
+	<ul class="dropdown-menu" aria-labelledby="drwnopdoMenu1">
+		<li><a href="/servisni-stranka"><i class="flag-icon flag-icon-cz"></i> Česky</a></li>
+	</ul>
+</div>

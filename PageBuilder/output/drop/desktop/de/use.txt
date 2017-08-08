@@ -1,0 +1,29 @@
+<div class="dropdown" id="language-switch">
+	<button class="btn btn-default btn-sm" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		<i class="flag-icon flag-icon-de"></i> Deutsch
+	</button>
+	<ul class="dropdown-menu" aria-labelledby="drwnopdoMenu1">
+		<li><a href="/uplatneni-cestovni-konverzace-staty"><i class="flag-icon flag-icon-cz"></i> Česky</a></li>
+		<li><a href="/anvendelse-rejseparloer-stater"><i class="flag-icon flag-icon-dk"></i> Dansk</a></li>
+		<li><a href="/practise-travel-phrasebook-states"><i class="flag-icon flag-icon-us"></i> English</a></li>
+		<li><a href="/uso-diccionario-de-viaje-paises"><i class="flag-icon flag-icon-es"></i> Español</a></li>
+		<li><a href="/application-conversation-voyage-etats"><i class="flag-icon flag-icon-fr"></i> Français</a></li>
+		<li><a href="/primjena-prirucnik-za-konverzaciju"><i class="flag-icon flag-icon-hr"></i> Hrvatski</a></li>
+		<li><a href="/utilizzo-conversazione-viaggio-stati"><i class="flag-icon flag-icon-it"></i> Italiano</a></li>
+		<li><a href="/ervenyesites-utiszotar-orszagok"><i class="flag-icon flag-icon-hu"></i> Magyar</a></li>
+		<li><a href="/toepassing-reis-conversatie-landen"><i class="flag-icon flag-icon-nl"></i> Nederlands</a></li>
+		<li><a href="/praksis-reiseordbok-land"><i class="flag-icon flag-icon-no"></i> Norsk</a></li>
+		<li><a href="/zastosowanie-turystyczny-rozmowki-panstwa"><i class="flag-icon flag-icon-pl"></i> Polski</a></li>
+		<li><a href="/pratica-conversacao-viagem-estados"><i class="flag-icon flag-icon-pt"></i> Português</a></li>
+		<li><a href="/kaytannossa-matkasanakirja-valtiot"><i class="flag-icon flag-icon-fi"></i> Suomeksi</a></li>
+		<li><a href="/nytta-rese-konversation-lander"><i class="flag-icon flag-icon-se"></i> Svenska</a></li>
+		<li><a href="/pratik-seyahat-konusma-devletler"><i class="flag-icon flag-icon-tr"></i> Türkçe</a></li>
+		<li><a href="/efarmogi-chrisimes-taxidiotikes-frasis-chores"><i class="flag-icon flag-icon-gr"></i> Ελληνικά</a></li>
+		<li><a href="/prilozenia-patnicheski-razgovornik-darzavi"><i class="flag-icon flag-icon-bg"></i> български</a></li>
+		<li><a href="/ru-practise-travel-conversation-states"><i class="flag-icon flag-icon-ru"></i> Русский</a></li>
+		<li><a href="/he-practise-travel-phrasebook-states"><i class="flag-icon flag-icon-il"></i> עברית</a></li>
+		<li><a href="/istichdam-safr-aibarat-dul"><i class="flag-icon flag-icon-sa"></i> العربية</a></li>
+		<li><a href="/china-practice-travel-phrasebook-states"><i class="flag-icon flag-icon-cn"></i> 中文</a></li>
+		<li><a href="/ja-practise-travel-conversation-states"><i class="flag-icon flag-icon-jp"></i> 日本語</a></li>
+	</ul>
+</div>

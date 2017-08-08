@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/resekonversation"><strong>Resekonversation</strong></a></li>
+                            <li><a href="/egenskaper-konversation"><strong>Applikationens egenskaper</strong></a>
+                                <li><a href="/hur-ser-konversationen-ut"><strong>Visning av applikationen<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hur-ser-ipad-konversationen-ut">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hur-ser-konversationen-ut-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hur-ser-konversationen-ut-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/nytta-rese-konversation-lander"><strong>Nytta</strong></a></li>
+                            <li><a href="/stod-fras"><strong>Stöd</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/stod-fras-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/stod-fras-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/stod-fras-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/kontakt-fras"><strong>Kontakter</strong></a></li>
+                        </ul>
+                        </div>

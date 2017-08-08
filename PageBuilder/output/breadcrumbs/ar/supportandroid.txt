@@ -1,0 +1,17 @@
+<div class="page-banner" style="padding:40px 0; background: url(../../images/travelers-phrasebook-banner.jpg) center #f9f9f9;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h1>Android: للعبارات المستخدمة في السفر FAQ الدعم و</h1>
+				<p></p>
+			</div>
+			<div class="col-md-8">
+					<ul class="breadcrumbs">
+						<li><a href="/safr-aibarat">SmartPhrase مدخل إلى</a></li>
+						<li><a href="/aldaim-mrhala">للعبارات المستخدمة في السفر FAQ الدعم و</a></li>
+						<li>Android: للعبارات المستخدمة في السفر FAQ الدعم و</li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</div>

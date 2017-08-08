@@ -1,0 +1,1629 @@
+<rule name="O cookies
+ cs">
+	<match url="^cz-cookies$" />
+	<action type="Rewrite" url="/lang/cs/cookies.asp" />
+</rule>
+<rule name="Nahled
+ cs">
+	<match url="^jak-vypada-konverzace$" />
+	<action type="Rewrite" url="/lang/cs/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ cs">
+	<match url="^jak-vypada-konverzace-android$" />
+	<action type="Rewrite" url="/lang/cs/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ cs">
+	<match url="^jak-vypada-konverzace-windows8$" />
+	<action type="Rewrite" url="/lang/cs/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ cs">
+	<match url="^kontakt-fraze$" />
+	<action type="Rewrite" url="/lang/cs/contact.asp" />
+</rule>
+<rule name="Podpora
+ cs">
+	<match url="^podpora-fraze$" />
+	<action type="Rewrite" url="/lang/cs/support.asp" />
+</rule>
+<rule name="Podpora Android
+ cs">
+	<match url="^podpora-fraze-android$" />
+	<action type="Rewrite" url="/lang/cs/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ cs">
+	<match url="^podpora-fraze-windows8$" />
+	<action type="Rewrite" url="/lang/cs/supportwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ cs">
+	<match url="^uplatneni-cestovni-konverzace-staty$" />
+	<action type="Rewrite" url="/lang/cs/use.asp" />
+</rule>
+<rule name="Vlastnosti
+ cs">
+	<match url="^vlastnosti-konverzace$" />
+	<action type="Rewrite" url="/lang/cs/features.asp" />
+</rule>
+<rule name="Nahled iOS
+ cs">
+	<match url="^jak-vypada-ipad-konverzace$" />
+	<action type="Rewrite" url="/lang/cs/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ cs">
+	<match url="^podpora-fraze-iphone$" />
+	<action type="Rewrite" url="/lang/cs/supportios.asp" />
+</rule>
+<rule name="Start
+ cs">
+	<match url="^cestovni-konverzace$" />
+	<action type="Rewrite" url="/lang/cs/index.asp" />
+</rule>
+<rule name="Mapa webu
+ cs">
+	<match url="^cz-sitemap$" />
+	<action type="Rewrite" url="/lang/cs/sitemap.asp" />
+</rule>
+<rule name="Trademarks
+ cs">
+	<match url="^ochranne-znamky$" />
+	<action type="Rewrite" url="/lang/cs/trademarks.asp" />
+</rule>
+<rule name="Servisni stranka
+ cs">
+	<match url="^servisni-stranka$" />
+	<action type="Rewrite" url="/lang/cs/service.asp" />
+</rule>
+<rule name="O cookies
+ da">
+	<match url="^dk-cookies$" />
+	<action type="Rewrite" url="/lang/da/cookies.asp" />
+</rule>
+<rule name="Uplatneni
+ da">
+	<match url="^anvendelse-rejseparloer-stater$" />
+	<action type="Rewrite" url="/lang/da/use.asp" />
+</rule>
+<rule name="Vlastnosti
+ da">
+	<match url="^egenskaber-konversation$" />
+	<action type="Rewrite" url="/lang/da/features.asp" />
+</rule>
+<rule name="Nahled
+ da">
+	<match url="^hvordan-ser-konversation-ud$" />
+	<action type="Rewrite" url="/lang/da/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ da">
+	<match url="^hvordan-ser-konversation-ud-android$" />
+	<action type="Rewrite" url="/lang/da/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ da">
+	<match url="^hvordan-ser-konversation-ud-windows8$" />
+	<action type="Rewrite" url="/lang/da/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ da">
+	<match url="^kontakt-saetninger$" />
+	<action type="Rewrite" url="/lang/da/contact.asp" />
+</rule>
+<rule name="Podpora
+ da">
+	<match url="^support-saetninger$" />
+	<action type="Rewrite" url="/lang/da/support.asp" />
+</rule>
+<rule name="Podpora Android
+ da">
+	<match url="^support-saetninger-android$" />
+	<action type="Rewrite" url="/lang/da/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ da">
+	<match url="^support-saetninger-windows8$" />
+	<action type="Rewrite" url="/lang/da/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ da">
+	<match url="^hvordan-ser-ipad-konversation-ud$" />
+	<action type="Rewrite" url="/lang/da/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ da">
+	<match url="^support-saetninger-iphone$" />
+	<action type="Rewrite" url="/lang/da/supportios.asp" />
+</rule>
+<rule name="Start
+ da">
+	<match url="^rejseparloer$" />
+	<action type="Rewrite" url="/lang/da/index.asp" />
+</rule>
+<rule name="Mapa webu
+ da">
+	<match url="^dk-sitemap$" />
+	<action type="Rewrite" url="/lang/da/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ de">
+	<match url="^de-cookies$" />
+	<action type="Rewrite" url="/lang/de/cookies.asp" />
+</rule>
+<rule name="Uplatneni
+ de">
+	<match url="^anwendung-reise-sprachfuehrer-staaten$" />
+	<action type="Rewrite" url="/lang/de/use.asp" />
+</rule>
+<rule name="Vlastnosti
+ de">
+	<match url="^eigenschaften-sprachfuehrer$" />
+	<action type="Rewrite" url="/lang/de/features.asp" />
+</rule>
+<rule name="Kontakt
+ de">
+	<match url="^kontakt-phrase$" />
+	<action type="Rewrite" url="/lang/de/contact.asp" />
+</rule>
+<rule name="Podpora
+ de">
+	<match url="^support-phrasen$" />
+	<action type="Rewrite" url="/lang/de/support.asp" />
+</rule>
+<rule name="Podpora Android
+ de">
+	<match url="^support-phrasen-android$" />
+	<action type="Rewrite" url="/lang/de/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ de">
+	<match url="^support-phrasen-windows8$" />
+	<action type="Rewrite" url="/lang/de/supportwindows8.asp" />
+</rule>
+<rule name="Nahled
+ de">
+	<match url="^wie-der-sprachfuehrer-aussieht$" />
+	<action type="Rewrite" url="/lang/de/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ de">
+	<match url="^wie-der-sprachfuehrer-aussieht-android$" />
+	<action type="Rewrite" url="/lang/de/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ de">
+	<match url="^wie-der-sprachfuehrer-aussieht-windows8$" />
+	<action type="Rewrite" url="/lang/de/previewwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ de">
+	<match url="^wie-der-ipad-sprachfuehrer-aussieht$" />
+	<action type="Rewrite" url="/lang/de/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ de">
+	<match url="^support-phrasen-iphone$" />
+	<action type="Rewrite" url="/lang/de/supportios.asp" />
+</rule>
+<rule name="Start
+ de">
+	<match url="^reise-sprachfuehrer$" />
+	<action type="Rewrite" url="/lang/de/index.asp" />
+</rule>
+<rule name="Mapa webu
+ de">
+	<match url="^de-sitemap$" />
+	<action type="Rewrite" url="/lang/de/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ en">
+	<match url="^us-cookies$" />
+	<action type="Rewrite" url="/lang/en/cookies.asp" />
+</rule>
+<rule name="Kontakt
+ en">
+	<match url="^contact-phrase$" />
+	<action type="Rewrite" url="/lang/en/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ en">
+	<match url="^features-phrasebook$" />
+	<action type="Rewrite" url="/lang/en/features.asp" />
+</rule>
+<rule name="Nahled
+ en">
+	<match url="^how-appears-phrasebook$" />
+	<action type="Rewrite" url="/lang/en/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ en">
+	<match url="^how-appears-phrasebook-android$" />
+	<action type="Rewrite" url="/lang/en/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ en">
+	<match url="^how-appears-phrasebook-windows8$" />
+	<action type="Rewrite" url="/lang/en/previewwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ en">
+	<match url="^practise-travel-phrasebook-states$" />
+	<action type="Rewrite" url="/lang/en/use.asp" />
+</rule>
+<rule name="Podpora
+ en">
+	<match url="^support-phrase$" />
+	<action type="Rewrite" url="/lang/en/support.asp" />
+</rule>
+<rule name="Podpora Android
+ en">
+	<match url="^support-phrase-android$" />
+	<action type="Rewrite" url="/lang/en/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ en">
+	<match url="^support-phrase-windows8$" />
+	<action type="Rewrite" url="/lang/en/supportwindows8.asp" />
+</rule>
+<rule name="Trademarks
+ en">
+	<match url="^trademark$" />
+	<action type="Rewrite" url="/lang/en/trademarks.asp" />
+</rule>
+<rule name="Nahled iOS
+ en">
+	<match url="^how-appears-ipad-phrasebook$" />
+	<action type="Rewrite" url="/lang/en/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ en">
+	<match url="^support-phrase-iphone$" />
+	<action type="Rewrite" url="/lang/en/supportios.asp" />
+</rule>
+<rule name="Start
+ en">
+	<match url="^travel-phrasebook$" />
+	<action type="Rewrite" url="/lang/en/index.asp" />
+</rule>
+<rule name="Servisni stranka
+ en">
+	<match url="^service-page$" />
+	<action type="Rewrite" url="/lang/en/service.asp" />
+</rule>
+<rule name="Mapa webu
+ en">
+	<match url="^us-sitemap$" />
+	<action type="Rewrite" url="/lang/en/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ es">
+	<match url="^es-cookies$" />
+	<action type="Rewrite" url="/lang/es/cookies.asp" />
+</rule>
+<rule name="Vlastnosti
+ es">
+	<match url="^caracteristicas-conversacion$" />
+	<action type="Rewrite" url="/lang/es/features.asp" />
+</rule>
+<rule name="Nahled
+ es">
+	<match url="^como-es-conversacion$" />
+	<action type="Rewrite" url="/lang/es/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ es">
+	<match url="^como-es-conversacion-android$" />
+	<action type="Rewrite" url="/lang/es/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ es">
+	<match url="^como-es-conversacion-windows8$" />
+	<action type="Rewrite" url="/lang/es/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ es">
+	<match url="^contacto-frase$" />
+	<action type="Rewrite" url="/lang/es/contact.asp" />
+</rule>
+<rule name="Podpora
+ es">
+	<match url="^soporte-frase$" />
+	<action type="Rewrite" url="/lang/es/support.asp" />
+</rule>
+<rule name="Podpora Android
+ es">
+	<match url="^soporte-frase-android$" />
+	<action type="Rewrite" url="/lang/es/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ es">
+	<match url="^soporte-frase-windows8$" />
+	<action type="Rewrite" url="/lang/es/supportwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ es">
+	<match url="^uso-diccionario-de-viaje-paises$" />
+	<action type="Rewrite" url="/lang/es/use.asp" />
+</rule>
+<rule name="Nahled iOS
+ es">
+	<match url="^como-es-ipad-conversacion$" />
+	<action type="Rewrite" url="/lang/es/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ es">
+	<match url="^soporte-frase-iphone$" />
+	<action type="Rewrite" url="/lang/es/supportios.asp" />
+</rule>
+<rule name="Start
+ es">
+	<match url="^diccionario-de-viaje$" />
+	<action type="Rewrite" url="/lang/es/index.asp" />
+</rule>
+<rule name="Mapa webu
+ es">
+	<match url="^es-sitemap$" />
+	<action type="Rewrite" url="/lang/es/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ fr">
+	<match url="^fr-cookies$" />
+	<action type="Rewrite" url="/lang/fr/cookies.asp" />
+</rule>
+<rule name="Uplatneni
+ fr">
+	<match url="^application-conversation-voyage-etats$" />
+	<action type="Rewrite" url="/lang/fr/use.asp" />
+</rule>
+<rule name="Nahled
+ fr">
+	<match url="^a-quoi-ressemble-conversations$" />
+	<action type="Rewrite" url="/lang/fr/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ fr">
+	<match url="^a-quoi-ressemble-conversations-android$" />
+	<action type="Rewrite" url="/lang/fr/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ fr">
+	<match url="^a-quoi-ressemble-conversations-windows8$" />
+	<action type="Rewrite" url="/lang/fr/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ fr">
+	<match url="^phrase-contact$" />
+	<action type="Rewrite" url="/lang/fr/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ fr">
+	<match url="^proprietes-conversation$" />
+	<action type="Rewrite" url="/lang/fr/features.asp" />
+</rule>
+<rule name="Podpora
+ fr">
+	<match url="^soutien-phrases$" />
+	<action type="Rewrite" url="/lang/fr/support.asp" />
+</rule>
+<rule name="Podpora Android
+ fr">
+	<match url="^soutien-phrases-android$" />
+	<action type="Rewrite" url="/lang/fr/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ fr">
+	<match url="^soutien-phrases-windows8$" />
+	<action type="Rewrite" url="/lang/fr/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ fr">
+	<match url="^a-quoi-ressemble-conversations-ipad$" />
+	<action type="Rewrite" url="/lang/fr/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ fr">
+	<match url="^soutien-phrases-iphone$" />
+	<action type="Rewrite" url="/lang/fr/supportios.asp" />
+</rule>
+<rule name="Start
+ fr">
+	<match url="^voyage-conversation$" />
+	<action type="Rewrite" url="/lang/fr/index.asp" />
+</rule>
+<rule name="Mapa webu
+ fr">
+	<match url="^fr-sitemap$" />
+	<action type="Rewrite" url="/lang/fr/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ hr">
+	<match url="^hr-cookies$" />
+	<action type="Rewrite" url="/lang/hr/cookies.asp" />
+</rule>
+<rule name="Kontakt
+ hr">
+	<match url="^fraze-kontakt$" />
+	<action type="Rewrite" url="/lang/hr/contact.asp" />
+</rule>
+<rule name="Nahled
+ hr">
+	<match url="^kako-izgleda-frazeologija$" />
+	<action type="Rewrite" url="/lang/hr/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ hr">
+	<match url="^kako-izgleda-frazeologija-android$" />
+	<action type="Rewrite" url="/lang/hr/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ hr">
+	<match url="^kako-izgleda-frazeologija-windows8$" />
+	<action type="Rewrite" url="/lang/hr/previewwindows8.asp" />
+</rule>
+<rule name="Podpora
+ hr">
+	<match url="^podrska-fraze$" />
+	<action type="Rewrite" url="/lang/hr/support.asp" />
+</rule>
+<rule name="Podpora Android
+ hr">
+	<match url="^podrska-fraze-android$" />
+	<action type="Rewrite" url="/lang/hr/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ hr">
+	<match url="^podrska-fraze-windows8$" />
+	<action type="Rewrite" url="/lang/hr/supportwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ hr">
+	<match url="^primjena-prirucnik-za-konverzaciju$" />
+	<action type="Rewrite" url="/lang/hr/use.asp" />
+</rule>
+<rule name="Vlastnosti
+ hr">
+	<match url="^svojstva-konverzacija$" />
+	<action type="Rewrite" url="/lang/hr/features.asp" />
+</rule>
+<rule name="Nahled iOS
+ hr">
+	<match url="^kako-izgleda-ipad-frazeologija$" />
+	<action type="Rewrite" url="/lang/hr/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ hr">
+	<match url="^podrska-fraze-iphone$" />
+	<action type="Rewrite" url="/lang/hr/supportios.asp" />
+</rule>
+<rule name="Start
+ hr">
+	<match url="^prirucnik-za-konverzaciju$" />
+	<action type="Rewrite" url="/lang/hr/index.asp" />
+</rule>
+<rule name="Mapa webu
+ hr">
+	<match url="^hr-sitemap$" />
+	<action type="Rewrite" url="/lang/hr/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ it">
+	<match url="^it-cookies$" />
+	<action type="Rewrite" url="/lang/it/cookies.asp" />
+</rule>
+<rule name="Podpora
+ it">
+	<match url="^assistenza-espressione$" />
+	<action type="Rewrite" url="/lang/it/support.asp" />
+</rule>
+<rule name="Podpora Android
+ it">
+	<match url="^assistenza-espressione-android$" />
+	<action type="Rewrite" url="/lang/it/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ it">
+	<match url="^assistenza-espressione-windows8$" />
+	<action type="Rewrite" url="/lang/it/supportwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ it">
+	<match url="^contatto-espressione$" />
+	<action type="Rewrite" url="/lang/it/contact.asp" />
+</rule>
+<rule name="Nahled
+ it">
+	<match url="^presentazione-conversazione$" />
+	<action type="Rewrite" url="/lang/it/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ it">
+	<match url="^presentazione-conversazione-android$" />
+	<action type="Rewrite" url="/lang/it/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ it">
+	<match url="^presentazione-conversazione-windows8$" />
+	<action type="Rewrite" url="/lang/it/previewwindows8.asp" />
+</rule>
+<rule name="Vlastnosti
+ it">
+	<match url="^proprieta-conversazione$" />
+	<action type="Rewrite" url="/lang/it/features.asp" />
+</rule>
+<rule name="Uplatneni
+ it">
+	<match url="^utilizzo-conversazione-viaggio-stati$" />
+	<action type="Rewrite" url="/lang/it/use.asp" />
+</rule>
+<rule name="Nahled iOS
+ it">
+	<match url="^presentazione-conversazione-ipad$" />
+	<action type="Rewrite" url="/lang/it/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ it">
+	<match url="^assistenza-espressione-iphone$" />
+	<action type="Rewrite" url="/lang/it/supportios.asp" />
+</rule>
+<rule name="Start
+ it">
+	<match url="^conversazione-da-viaggio$" />
+	<action type="Rewrite" url="/lang/it/index.asp" />
+</rule>
+<rule name="Mapa webu
+ it">
+	<match url="^it-sitemap$" />
+	<action type="Rewrite" url="/lang/it/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ hu">
+	<match url="^hu-cookies$" />
+	<action type="Rewrite" url="/lang/hu/cookies.asp" />
+</rule>
+<rule name="Uplatneni
+ hu">
+	<match url="^ervenyesites-utiszotar-orszagok$" />
+	<action type="Rewrite" url="/lang/hu/use.asp" />
+</rule>
+<rule name="Nahled
+ hu">
+	<match url="^hogy-nez-ki-utiszotar$" />
+	<action type="Rewrite" url="/lang/hu/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ hu">
+	<match url="^hogy-nez-ki-utiszotar-android$" />
+	<action type="Rewrite" url="/lang/hu/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ hu">
+	<match url="^hogy-nez-ki-utiszotar-windows8$" />
+	<action type="Rewrite" url="/lang/hu/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ hu">
+	<match url="^kapcsolat-kifejezes$" />
+	<action type="Rewrite" url="/lang/hu/contact.asp" />
+</rule>
+<rule name="Podpora
+ hu">
+	<match url="^segitseg-kifejezes$" />
+	<action type="Rewrite" url="/lang/hu/support.asp" />
+</rule>
+<rule name="Podpora Android
+ hu">
+	<match url="^segitseg-kifejezes-android$" />
+	<action type="Rewrite" url="/lang/hu/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ hu">
+	<match url="^segitseg-kifejezes-windows8$" />
+	<action type="Rewrite" url="/lang/hu/supportwindows8.asp" />
+</rule>
+<rule name="Vlastnosti
+ hu">
+	<match url="^utiszotar-tulajdonsagai$" />
+	<action type="Rewrite" url="/lang/hu/features.asp" />
+</rule>
+<rule name="Nahled iOS
+ hu">
+	<match url="^hogy-nez-ki-ipad-utiszotar$" />
+	<action type="Rewrite" url="/lang/hu/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ hu">
+	<match url="^segitseg-kifejezes-iphone$" />
+	<action type="Rewrite" url="/lang/hu/supportios.asp" />
+</rule>
+<rule name="Start
+ hu">
+	<match url="^utiszotar$" />
+	<action type="Rewrite" url="/lang/hu/index.asp" />
+</rule>
+<rule name="Mapa webu
+ hu">
+	<match url="^hu-sitemap$" />
+	<action type="Rewrite" url="/lang/hu/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ nl">
+	<match url="^nl-cookies$" />
+	<action type="Rewrite" url="/lang/nl/cookies.asp" />
+</rule>
+<rule name="Kontakt
+ nl">
+	<match url="^contact-uitdrukking$" />
+	<action type="Rewrite" url="/lang/nl/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ nl">
+	<match url="^eigenschappen-conversatie$" />
+	<action type="Rewrite" url="/lang/nl/features.asp" />
+</rule>
+<rule name="Nahled
+ nl">
+	<match url="^hoe-ziet-de-conversatie-eruit$" />
+	<action type="Rewrite" url="/lang/nl/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ nl">
+	<match url="^hoe-ziet-de-conversatie-eruit-android$" />
+	<action type="Rewrite" url="/lang/nl/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ nl">
+	<match url="^hoe-ziet-de-conversatie-eruit-windows8$" />
+	<action type="Rewrite" url="/lang/nl/previewwindows8.asp" />
+</rule>
+<rule name="Podpora
+ nl">
+	<match url="^ondersteuning-uitdrukkingen$" />
+	<action type="Rewrite" url="/lang/nl/support.asp" />
+</rule>
+<rule name="Podpora Android
+ nl">
+	<match url="^ondersteuning-uitdrukkingen-android$" />
+	<action type="Rewrite" url="/lang/nl/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ nl">
+	<match url="^ondersteuning-uitdrukkingen-windows8$" />
+	<action type="Rewrite" url="/lang/nl/supportwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ nl">
+	<match url="^toepassing-reis-conversatie-landen$" />
+	<action type="Rewrite" url="/lang/nl/use.asp" />
+</rule>
+<rule name="Nahled iOS
+ nl">
+	<match url="^hoe-ziet-de-ipad-conversatie-eruit$" />
+	<action type="Rewrite" url="/lang/nl/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ nl">
+	<match url="^ondersteuning-uitdrukkingen-iphone$" />
+	<action type="Rewrite" url="/lang/nl/supportios.asp" />
+</rule>
+<rule name="Start
+ nl">
+	<match url="^conversatiegids$" />
+	<action type="Rewrite" url="/lang/nl/index.asp" />
+</rule>
+<rule name="Mapa webu
+ nl">
+	<match url="^nl-sitemap$" />
+	<action type="Rewrite" url="/lang/nl/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ nb">
+	<match url="^no-cookies$" />
+	<action type="Rewrite" url="/lang/nb/cookies.asp" />
+</rule>
+<rule name="Vlastnosti
+ nb">
+	<match url="^egenskaper-konversasjon$" />
+	<action type="Rewrite" url="/lang/nb/features.asp" />
+</rule>
+<rule name="Nahled
+ nb">
+	<match url="^hvordan-synes-reiseordbok$" />
+	<action type="Rewrite" url="/lang/nb/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ nb">
+	<match url="^hvordan-synes-reiseordbok-android$" />
+	<action type="Rewrite" url="/lang/nb/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ nb">
+	<match url="^hvordan-synes-reiseordbok-windows8$" />
+	<action type="Rewrite" url="/lang/nb/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ nb">
+	<match url="^kontakt-frase$" />
+	<action type="Rewrite" url="/lang/nb/contact.asp" />
+</rule>
+<rule name="Uplatneni
+ nb">
+	<match url="^praksis-reiseordbok-land$" />
+	<action type="Rewrite" url="/lang/nb/use.asp" />
+</rule>
+<rule name="Podpora
+ nb">
+	<match url="^support-frase$" />
+	<action type="Rewrite" url="/lang/nb/support.asp" />
+</rule>
+<rule name="Podpora Android
+ nb">
+	<match url="^support-frase-android$" />
+	<action type="Rewrite" url="/lang/nb/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ nb">
+	<match url="^support-frase-windows8$" />
+	<action type="Rewrite" url="/lang/nb/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ nb">
+	<match url="^hvordan-synes-ipad-reiseordbok$" />
+	<action type="Rewrite" url="/lang/nb/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ nb">
+	<match url="^support-frase-iphone$" />
+	<action type="Rewrite" url="/lang/nb/supportios.asp" />
+</rule>
+<rule name="Start
+ nb">
+	<match url="^reiseordbok$" />
+	<action type="Rewrite" url="/lang/nb/index.asp" />
+</rule>
+<rule name="Mapa webu
+ nb">
+	<match url="^no-sitemap$" />
+	<action type="Rewrite" url="/lang/nb/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ pl">
+	<match url="^pl-cookies$" />
+	<action type="Rewrite" url="/lang/pl/cookies.asp" />
+</rule>
+<rule name="Nahled
+ pl">
+	<match url="^jak-wyglada-rozmowki$" />
+	<action type="Rewrite" url="/lang/pl/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ pl">
+	<match url="^jak-wyglada-rozmowki-android$" />
+	<action type="Rewrite" url="/lang/pl/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ pl">
+	<match url="^jak-wyglada-rozmowki-windows8$" />
+	<action type="Rewrite" url="/lang/pl/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ pl">
+	<match url="^kontakt-frazy$" />
+	<action type="Rewrite" url="/lang/pl/contact.asp" />
+</rule>
+<rule name="Podpora
+ pl">
+	<match url="^pomoc-frazy$" />
+	<action type="Rewrite" url="/lang/pl/support.asp" />
+</rule>
+<rule name="Podpora Android
+ pl">
+	<match url="^pomoc-frazy-android$" />
+	<action type="Rewrite" url="/lang/pl/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ pl">
+	<match url="^pomoc-frazy-windows8$" />
+	<action type="Rewrite" url="/lang/pl/supportwindows8.asp" />
+</rule>
+<rule name="Vlastnosti
+ pl">
+	<match url="^wlasciwosci-rozmowki$" />
+	<action type="Rewrite" url="/lang/pl/features.asp" />
+</rule>
+<rule name="Uplatneni
+ pl">
+	<match url="^zastosowanie-turystyczny-rozmowki-panstwa$" />
+	<action type="Rewrite" url="/lang/pl/use.asp" />
+</rule>
+<rule name="Nahled iOS
+ pl">
+	<match url="^jak-wyglada-ipad-rozmowki$" />
+	<action type="Rewrite" url="/lang/pl/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ pl">
+	<match url="^pomoc-frazy-iphone$" />
+	<action type="Rewrite" url="/lang/pl/supportios.asp" />
+</rule>
+<rule name="Start
+ pl">
+	<match url="^rozmowki-turystyczne$" />
+	<action type="Rewrite" url="/lang/pl/index.asp" />
+</rule>
+<rule name="Mapa webu
+ pl">
+	<match url="^pl-sitemap$" />
+	<action type="Rewrite" url="/lang/pl/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ pt">
+	<match url="^pt-cookies$" />
+	<action type="Rewrite" url="/lang/pt/cookies.asp" />
+</rule>
+<rule name="Vlastnosti
+ pt">
+	<match url="^caracteristicas-conversacao$" />
+	<action type="Rewrite" url="/lang/pt/features.asp" />
+</rule>
+<rule name="Nahled
+ pt">
+	<match url="^como-se-apresenta-conversacao$" />
+	<action type="Rewrite" url="/lang/pt/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ pt">
+	<match url="^como-se-apresenta-conversacao-android$" />
+	<action type="Rewrite" url="/lang/pt/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ pt">
+	<match url="^como-se-apresenta-conversacao-windows8$" />
+	<action type="Rewrite" url="/lang/pt/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ pt">
+	<match url="^contacto-locucao$" />
+	<action type="Rewrite" url="/lang/pt/contact.asp" />
+</rule>
+<rule name="Uplatneni
+ pt">
+	<match url="^pratica-conversacao-viagem-estados$" />
+	<action type="Rewrite" url="/lang/pt/use.asp" />
+</rule>
+<rule name="Podpora
+ pt">
+	<match url="^suporte-locucao$" />
+	<action type="Rewrite" url="/lang/pt/support.asp" />
+</rule>
+<rule name="Podpora Android
+ pt">
+	<match url="^suporte-locucao-android$" />
+	<action type="Rewrite" url="/lang/pt/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ pt">
+	<match url="^suporte-locucao-windows8$" />
+	<action type="Rewrite" url="/lang/pt/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ pt">
+	<match url="^como-se-apresenta-ipad-conversacao$" />
+	<action type="Rewrite" url="/lang/pt/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ pt">
+	<match url="^suporte-locucao-iphone$" />
+	<action type="Rewrite" url="/lang/pt/supportios.asp" />
+</rule>
+<rule name="Start
+ pt">
+	<match url="^conversacao-para-viagens$" />
+	<action type="Rewrite" url="/lang/pt/index.asp" />
+</rule>
+<rule name="Mapa webu
+ pt">
+	<match url="^pt-sitemap$" />
+	<action type="Rewrite" url="/lang/pt/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ fi">
+	<match url="^fi-cookies$" />
+	<action type="Rewrite" url="/lang/fi/cookies.asp" />
+</rule>
+<rule name="Uplatneni
+ fi">
+	<match url="^kaytannossa-matkasanakirja-valtiot$" />
+	<action type="Rewrite" url="/lang/fi/use.asp" />
+</rule>
+<rule name="Nahled
+ fi">
+	<match url="^milta-nayttaa-fraasisanakirja$" />
+	<action type="Rewrite" url="/lang/fi/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ fi">
+	<match url="^milta-nayttaa-fraasisanakirja-android$" />
+	<action type="Rewrite" url="/lang/fi/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ fi">
+	<match url="^milta-nayttaa-fraasisanakirja-windows8$" />
+	<action type="Rewrite" url="/lang/fi/previewwindows8.asp" />
+</rule>
+<rule name="Vlastnosti
+ fi">
+	<match url="^ominaisuudet-fraasisanakirja$" />
+	<action type="Rewrite" url="/lang/fi/features.asp" />
+</rule>
+<rule name="Podpora
+ fi">
+	<match url="^tuki-fraasi$" />
+	<action type="Rewrite" url="/lang/fi/support.asp" />
+</rule>
+<rule name="Podpora Android
+ fi">
+	<match url="^tuki-fraasi-android$" />
+	<action type="Rewrite" url="/lang/fi/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ fi">
+	<match url="^tuki-fraasi-windows8$" />
+	<action type="Rewrite" url="/lang/fi/supportwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ fi">
+	<match url="^yhteystiedot-fraasi$" />
+	<action type="Rewrite" url="/lang/fi/contact.asp" />
+</rule>
+<rule name="Nahled iOS
+ fi">
+	<match url="^milta-nayttaa-ipad-fraasisanakirja$" />
+	<action type="Rewrite" url="/lang/fi/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ fi">
+	<match url="^tuki-fraasi-iphone$" />
+	<action type="Rewrite" url="/lang/fi/supportios.asp" />
+</rule>
+<rule name="Start
+ fi">
+	<match url="^matkasanakirja$" />
+	<action type="Rewrite" url="/lang/fi/index.asp" />
+</rule>
+<rule name="Mapa webu
+ fi">
+	<match url="^fi-sitemap$" />
+	<action type="Rewrite" url="/lang/fi/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ sv">
+	<match url="^se-cookies$" />
+	<action type="Rewrite" url="/lang/sv/cookies.asp" />
+</rule>
+<rule name="Vlastnosti
+ sv">
+	<match url="^egenskaper-konversation$" />
+	<action type="Rewrite" url="/lang/sv/features.asp" />
+</rule>
+<rule name="Nahled
+ sv">
+	<match url="^hur-ser-konversationen-ut$" />
+	<action type="Rewrite" url="/lang/sv/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ sv">
+	<match url="^hur-ser-konversationen-ut-android$" />
+	<action type="Rewrite" url="/lang/sv/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ sv">
+	<match url="^hur-ser-konversationen-ut-windows8$" />
+	<action type="Rewrite" url="/lang/sv/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ sv">
+	<match url="^kontakt-fras$" />
+	<action type="Rewrite" url="/lang/sv/contact.asp" />
+</rule>
+<rule name="Uplatneni
+ sv">
+	<match url="^nytta-rese-konversation-lander$" />
+	<action type="Rewrite" url="/lang/sv/use.asp" />
+</rule>
+<rule name="Podpora
+ sv">
+	<match url="^stod-fras$" />
+	<action type="Rewrite" url="/lang/sv/support.asp" />
+</rule>
+<rule name="Podpora Android
+ sv">
+	<match url="^stod-fras-android$" />
+	<action type="Rewrite" url="/lang/sv/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ sv">
+	<match url="^stod-fras-windows8$" />
+	<action type="Rewrite" url="/lang/sv/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ sv">
+	<match url="^hur-ser-ipad-konversationen-ut$" />
+	<action type="Rewrite" url="/lang/sv/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ sv">
+	<match url="^stod-fras-iphone$" />
+	<action type="Rewrite" url="/lang/sv/supportios.asp" />
+</rule>
+<rule name="Start
+ sv">
+	<match url="^resekonversation$" />
+	<action type="Rewrite" url="/lang/sv/index.asp" />
+</rule>
+<rule name="Mapa webu
+ sv">
+	<match url="^se-sitemap$" />
+	<action type="Rewrite" url="/lang/sv/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ tr">
+	<match url="^tr-cookies$" />
+	<action type="Rewrite" url="/lang/tr/cookies.asp" />
+</rule>
+<rule name="Podpora
+ tr">
+	<match url="^destek-ifade$" />
+	<action type="Rewrite" url="/lang/tr/support.asp" />
+</rule>
+<rule name="Podpora Android
+ tr">
+	<match url="^destek-ifade-android$" />
+	<action type="Rewrite" url="/lang/tr/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ tr">
+	<match url="^destek-ifade-windows8$" />
+	<action type="Rewrite" url="/lang/tr/supportwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ tr">
+	<match url="^iletisim-ifade$" />
+	<action type="Rewrite" url="/lang/tr/contact.asp" />
+</rule>
+<rule name="Nahled
+ tr">
+	<match url="^konusma-nasil-gorunur$" />
+	<action type="Rewrite" url="/lang/tr/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ tr">
+	<match url="^konusma-nasil-gorunur-android$" />
+	<action type="Rewrite" url="/lang/tr/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ tr">
+	<match url="^konusma-nasil-gorunur-windows8$" />
+	<action type="Rewrite" url="/lang/tr/previewwindows8.asp" />
+</rule>
+<rule name="Vlastnosti
+ tr">
+	<match url="^ozellikler-konusma$" />
+	<action type="Rewrite" url="/lang/tr/features.asp" />
+</rule>
+<rule name="Uplatneni
+ tr">
+	<match url="^pratik-seyahat-konusma-devletler$" />
+	<action type="Rewrite" url="/lang/tr/use.asp" />
+</rule>
+<rule name="Nahled iOS
+ tr">
+	<match url="^ipad-konusma-nasil-gorunur$" />
+	<action type="Rewrite" url="/lang/tr/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ tr">
+	<match url="^destek-ifade-iphone$" />
+	<action type="Rewrite" url="/lang/tr/supportios.asp" />
+</rule>
+<rule name="Start
+ tr">
+	<match url="^seyahat-konusma-kilavuzu$" />
+	<action type="Rewrite" url="/lang/tr/index.asp" />
+</rule>
+<rule name="Mapa webu
+ tr">
+	<match url="^tr-sitemap$" />
+	<action type="Rewrite" url="/lang/tr/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ el">
+	<match url="^gr-cookies$" />
+	<action type="Rewrite" url="/lang/el/cookies.asp" />
+</rule>
+<rule name="Uplatneni
+ el">
+	<match url="^efarmogi-chrisimes-taxidiotikes-frasis-chores$" />
+	<action type="Rewrite" url="/lang/el/use.asp" />
+</rule>
+<rule name="Kontakt
+ el">
+	<match url="^epafi-frasi$" />
+	<action type="Rewrite" url="/lang/el/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ el">
+	<match url="^idiotites-sinomilia$" />
+	<action type="Rewrite" url="/lang/el/features.asp" />
+</rule>
+<rule name="Podpora
+ el">
+	<match url="^ipostiriksi-frasi$" />
+	<action type="Rewrite" url="/lang/el/support.asp" />
+</rule>
+<rule name="Podpora Android
+ el">
+	<match url="^ipostiriksi-frasi-android$" />
+	<action type="Rewrite" url="/lang/el/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ el">
+	<match url="^ipostiriksi-frasi-windows8$" />
+	<action type="Rewrite" url="/lang/el/supportwindows8.asp" />
+</rule>
+<rule name="Nahled
+ el">
+	<match url="^pos-fainetai-sinomilia$" />
+	<action type="Rewrite" url="/lang/el/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ el">
+	<match url="^pos-fainetai-sinomilia-android$" />
+	<action type="Rewrite" url="/lang/el/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ el">
+	<match url="^pos-fainetai-sinomilia-windows8$" />
+	<action type="Rewrite" url="/lang/el/previewwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ el">
+	<match url="^pos-fainetai-ipad-sinomilia$" />
+	<action type="Rewrite" url="/lang/el/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ el">
+	<match url="^ipostiriksi-frasi-iphone$" />
+	<action type="Rewrite" url="/lang/el/supportios.asp" />
+</rule>
+<rule name="Start
+ el">
+	<match url="^chrisimes-taxidiotikes-frasis$" />
+	<action type="Rewrite" url="/lang/el/index.asp" />
+</rule>
+<rule name="Mapa webu
+ el">
+	<match url="^gr-sitemap$" />
+	<action type="Rewrite" url="/lang/el/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ bg">
+	<match url="^bg-cookies$" />
+	<action type="Rewrite" url="/lang/bg/cookies.asp" />
+</rule>
+<rule name="Nahled
+ bg">
+	<match url="^kak-izglezda-razgovornik$" />
+	<action type="Rewrite" url="/lang/bg/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ bg">
+	<match url="^kak-izglezda-razgovornik-android$" />
+	<action type="Rewrite" url="/lang/bg/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ bg">
+	<match url="^kak-izglezda-razgovornik-windows8$" />
+	<action type="Rewrite" url="/lang/bg/previewwindows8.asp" />
+</rule>
+<rule name="Kontakt
+ bg">
+	<match url="^kontakt-fraza$" />
+	<action type="Rewrite" url="/lang/bg/contact.asp" />
+</rule>
+<rule name="Podpora
+ bg">
+	<match url="^poddrazka-fraza$" />
+	<action type="Rewrite" url="/lang/bg/support.asp" />
+</rule>
+<rule name="Podpora Android
+ bg">
+	<match url="^poddrazka-fraza-android$" />
+	<action type="Rewrite" url="/lang/bg/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ bg">
+	<match url="^poddrazka-fraza-windows8$" />
+	<action type="Rewrite" url="/lang/bg/supportwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ bg">
+	<match url="^prilozenia-patnicheski-razgovornik-darzavi$" />
+	<action type="Rewrite" url="/lang/bg/use.asp" />
+</rule>
+<rule name="Vlastnosti
+ bg">
+	<match url="^svojstvai-razgovornik$" />
+	<action type="Rewrite" url="/lang/bg/features.asp" />
+</rule>
+<rule name="Nahled iOS
+ bg">
+	<match url="^kak-izglezda-ipad-razgovornik$" />
+	<action type="Rewrite" url="/lang/bg/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ bg">
+	<match url="^poddrazka-fraza-iphone$" />
+	<action type="Rewrite" url="/lang/bg/supportios.asp" />
+</rule>
+<rule name="Start
+ bg">
+	<match url="^patnicheski-razgovornik$" />
+	<action type="Rewrite" url="/lang/bg/index.asp" />
+</rule>
+<rule name="Mapa webu
+ bg">
+	<match url="^bg-sitemap$" />
+	<action type="Rewrite" url="/lang/bg/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ ru">
+	<match url="^ru-cookies$" />
+	<action type="Rewrite" url="/lang/ru/cookies.asp" />
+</rule>
+<rule name="Start
+ ru">
+	<match url="^ru-travel-conversation$" />
+	<action type="Rewrite" url="/lang/ru/index.asp" />
+</rule>
+<rule name="Kontakt
+ ru">
+	<match url="^ru-contact-phrase$" />
+	<action type="Rewrite" url="/lang/ru/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ ru">
+	<match url="^ru-features-conversation$" />
+	<action type="Rewrite" url="/lang/ru/features.asp" />
+</rule>
+<rule name="Nahled
+ ru">
+	<match url="^ru-how-appears-conversation$" />
+	<action type="Rewrite" url="/lang/ru/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ ru">
+	<match url="^ru-how-appears-conversation-android$" />
+	<action type="Rewrite" url="/lang/ru/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ ru">
+	<match url="^ru-how-appears-conversation-windows8$" />
+	<action type="Rewrite" url="/lang/ru/previewwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ ru">
+	<match url="^ru-practise-travel-conversation-states$" />
+	<action type="Rewrite" url="/lang/ru/use.asp" />
+</rule>
+<rule name="Podpora
+ ru">
+	<match url="^ru-support-phrase$" />
+	<action type="Rewrite" url="/lang/ru/support.asp" />
+</rule>
+<rule name="Podpora Android
+ ru">
+	<match url="^ru-support-phrase-android$" />
+	<action type="Rewrite" url="/lang/ru/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ ru">
+	<match url="^ru-support-phrase-windows8$" />
+	<action type="Rewrite" url="/lang/ru/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ ru">
+	<match url="^ru-how-appears-ipad-conversation$" />
+	<action type="Rewrite" url="/lang/ru/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ ru">
+	<match url="^ru-support-phrase-iphone$" />
+	<action type="Rewrite" url="/lang/ru/supportios.asp" />
+</rule>
+<rule name="Mapa webu
+ ru">
+	<match url="^ru-sitemap$" />
+	<action type="Rewrite" url="/lang/ru/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ he">
+	<match url="^il-cookies$" />
+	<action type="Rewrite" url="/lang/he/cookies.asp" />
+</rule>
+<rule name="Kontakt
+ he">
+	<match url="^he-contact-phrase$" />
+	<action type="Rewrite" url="/lang/he/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ he">
+	<match url="^he-features-phrasebook$" />
+	<action type="Rewrite" url="/lang/he/features.asp" />
+</rule>
+<rule name="Nahled
+ he">
+	<match url="^he-how-appears-phrasebook$" />
+	<action type="Rewrite" url="/lang/he/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ he">
+	<match url="^he-how-appears-phrasebook-android$" />
+	<action type="Rewrite" url="/lang/he/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ he">
+	<match url="^he-how-appears-phrasebook-windows8$" />
+	<action type="Rewrite" url="/lang/he/previewwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ he">
+	<match url="^he-practise-travel-phrasebook-states$" />
+	<action type="Rewrite" url="/lang/he/use.asp" />
+</rule>
+<rule name="Podpora
+ he">
+	<match url="^he-support-phrase$" />
+	<action type="Rewrite" url="/lang/he/support.asp" />
+</rule>
+<rule name="Podpora Android
+ he">
+	<match url="^he-support-phrase-android$" />
+	<action type="Rewrite" url="/lang/he/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ he">
+	<match url="^he-support-phrase-windows8$" />
+	<action type="Rewrite" url="/lang/he/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ he">
+	<match url="^he-how-appears-ipad-phrasebook$" />
+	<action type="Rewrite" url="/lang/he/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ he">
+	<match url="^he-support-phrase-iphone$" />
+	<action type="Rewrite" url="/lang/he/supportios.asp" />
+</rule>
+<rule name="Start
+ he">
+	<match url="^he-travel-phrasebook$" />
+	<action type="Rewrite" url="/lang/he/index.asp" />
+</rule>
+<rule name="Mapa webu
+ he">
+	<match url="^il-sitemap$" />
+	<action type="Rewrite" url="/lang/he/sitemap.asp" />
+</rule>
+<rule name="Podpora
+ ar">
+	<match url="^aldaim-mrhala$" />
+	<action type="Rewrite" url="/lang/ar/support.asp" />
+</rule>
+<rule name="Podpora Android
+ ar">
+	<match url="^aldaim-mrhala-android$" />
+	<action type="Rewrite" url="/lang/ar/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ ar">
+	<match url="^aldaim-mrhala-windows8$" />
+	<action type="Rewrite" url="/lang/ar/supportwindows8.asp" />
+</rule>
+<rule name="Vlastnosti
+ ar">
+	<match url="^chsais-aibarat$" />
+	<action type="Rewrite" url="/lang/ar/features.asp" />
+</rule>
+<rule name="Uplatneni
+ ar">
+	<match url="^istichdam-safr-aibarat-dul$" />
+	<action type="Rewrite" url="/lang/ar/use.asp" />
+</rule>
+<rule name="Kontakt
+ ar">
+	<match url="^itsil-bina-mustalh$" />
+	<action type="Rewrite" url="/lang/ar/contact.asp" />
+</rule>
+<rule name="Nahled
+ ar">
+	<match url="^kifa-jabdu-aibarat$" />
+	<action type="Rewrite" url="/lang/ar/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ ar">
+	<match url="^kifa-jabdu-aibarat-android$" />
+	<action type="Rewrite" url="/lang/ar/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ ar">
+	<match url="^kifa-jabdu-aibarat-windows8$" />
+	<action type="Rewrite" url="/lang/ar/previewwindows8.asp" />
+</rule>
+<rule name="O cookies
+ ar">
+	<match url="^sa-cookies$" />
+	<action type="Rewrite" url="/lang/ar/cookies.asp" />
+</rule>
+<rule name="Nahled iOS
+ ar">
+	<match url="^kifa-jabdu-ipad-aibarat$" />
+	<action type="Rewrite" url="/lang/ar/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ ar">
+	<match url="^aldaim-mrhala-iphone$" />
+	<action type="Rewrite" url="/lang/ar/supportios.asp" />
+</rule>
+<rule name="Start
+ ar">
+	<match url="^safr-aibarat$" />
+	<action type="Rewrite" url="/lang/ar/index.asp" />
+</rule>
+<rule name="Mapa webu
+ ar">
+	<match url="^sa-sitemap$" />
+	<action type="Rewrite" url="/lang/ar/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ zh">
+	<match url="^cn-cookies$" />
+	<action type="Rewrite" url="/lang/zh/cookies.asp" />
+</rule>
+<rule name="Kontakt
+ zh">
+	<match url="^china-contact-phrase$" />
+	<action type="Rewrite" url="/lang/zh/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ zh">
+	<match url="^china-features-phrasebook$" />
+	<action type="Rewrite" url="/lang/zh/features.asp" />
+</rule>
+<rule name="Nahled
+ zh">
+	<match url="^china-how-appears-phrasebook$" />
+	<action type="Rewrite" url="/lang/zh/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ zh">
+	<match url="^china-how-appears-phrasebook-android$" />
+	<action type="Rewrite" url="/lang/zh/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ zh">
+	<match url="^china-how-appears-phrasebook-windows8$" />
+	<action type="Rewrite" url="/lang/zh/previewwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ zh">
+	<match url="^china-practice-travel-phrasebook-states$" />
+	<action type="Rewrite" url="/lang/zh/use.asp" />
+</rule>
+<rule name="Podpora
+ zh">
+	<match url="^china-support-phrase$" />
+	<action type="Rewrite" url="/lang/zh/support.asp" />
+</rule>
+<rule name="Podpora Android
+ zh">
+	<match url="^china-support-phrase-android$" />
+	<action type="Rewrite" url="/lang/zh/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ zh">
+	<match url="^china-support-phrase-windows8$" />
+	<action type="Rewrite" url="/lang/zh/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ zh">
+	<match url="^china-how-appears-ipad-phrasebook$" />
+	<action type="Rewrite" url="/lang/zh/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ zh">
+	<match url="^china-support-phrase-iphone$" />
+	<action type="Rewrite" url="/lang/zh/supportios.asp" />
+</rule>
+<rule name="Start
+ zh">
+	<match url="^china-traveler-phrasebook$" />
+	<action type="Rewrite" url="/lang/zh/index.asp" />
+</rule>
+<rule name="Mapa webu
+ zh">
+	<match url="^cn-sitemap$" />
+	<action type="Rewrite" url="/lang/zh/sitemap.asp" />
+</rule>
+<rule name="O cookies
+ ja">
+	<match url="^jp-cookies$" />
+	<action type="Rewrite" url="/lang/ja/cookies.asp" />
+</rule>
+<rule name="Kontakt
+ ja">
+	<match url="^ja-contact-phrase$" />
+	<action type="Rewrite" url="/lang/ja/contact.asp" />
+</rule>
+<rule name="Vlastnosti
+ ja">
+	<match url="^ja-features-conversation$" />
+	<action type="Rewrite" url="/lang/ja/features.asp" />
+</rule>
+<rule name="Nahled
+ ja">
+	<match url="^ja-how-appears-conversation$" />
+	<action type="Rewrite" url="/lang/ja/preview.asp" />
+</rule>
+<rule name="Nahled Android
+ ja">
+	<match url="^ja-how-appears-conversation-android$" />
+	<action type="Rewrite" url="/lang/ja/previewandroid.asp" />
+</rule>
+<rule name="Nahled W8
+ ja">
+	<match url="^ja-how-appears-conversation-windows8$" />
+	<action type="Rewrite" url="/lang/ja/previewwindows8.asp" />
+</rule>
+<rule name="Uplatneni
+ ja">
+	<match url="^ja-practise-travel-conversation-states$" />
+	<action type="Rewrite" url="/lang/ja/use.asp" />
+</rule>
+<rule name="Podpora
+ ja">
+	<match url="^ja-support-phrase$" />
+	<action type="Rewrite" url="/lang/ja/support.asp" />
+</rule>
+<rule name="Podpora Android
+ ja">
+	<match url="^ja-support-phrase-android$" />
+	<action type="Rewrite" url="/lang/ja/supportandroid.asp" />
+</rule>
+<rule name="Podpora Windows8
+ ja">
+	<match url="^ja-support-phrase-windows8$" />
+	<action type="Rewrite" url="/lang/ja/supportwindows8.asp" />
+</rule>
+<rule name="Nahled iOS
+ ja">
+	<match url="^ja-how-appears-ipad-conversation$" />
+	<action type="Rewrite" url="/lang/ja/previewios.asp" />
+</rule>
+<rule name="Podpora iOS
+ ja">
+	<match url="^ja-support-phrase-iphone$" />
+	<action type="Rewrite" url="/lang/ja/supportios.asp" />
+</rule>
+<rule name="Start
+ ja">
+	<match url="^ja-travel-conversation$" />
+	<action type="Rewrite" url="/lang/ja/index.asp" />
+</rule>
+<rule name="Mapa webu ja">
+	<match url="^jp-sitemap$" />
+	<action type="Rewrite" url="/lang/ja/sitemap.asp" />
+</rule>

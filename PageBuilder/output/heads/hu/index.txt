@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Bevezetés az SmartPhrase-hez</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Általános információk a SmartPhrase útiszótárhoz">
+<meta name="keywords" content="bevezetés, utazási, társalgás, útiszótár">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/utiszotar" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bevezetés az SmartPhrase-hez" />
+<meta property="og:description" content="Általános információk a SmartPhrase útiszótárhoz" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Általános információk a SmartPhrase útiszótárhoz" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Bevezetés az SmartPhrase-hez" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Bevezetés az SmartPhrase-hez">
+<meta itemprop="description" content="Általános információk a SmartPhrase útiszótárhoz" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

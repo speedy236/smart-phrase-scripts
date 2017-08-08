@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Υποστήριξη και συχνές ερωτήσεις των Χρήσιμων ταξιδιωτικών φράσεων</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Αν έχετε προβλήματα με την εφαρμογή, απλά ρωτήστε μας και εμείς θα σας συμβουλέψουμε">
+<meta name="keywords" content="συχνή, ερώτηση, εφαρμογή">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ipostiriksi-frasi" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Υποστήριξη και συχνές ερωτήσεις των Χρήσιμων ταξιδιωτικών φράσεων" />
+<meta property="og:description" content="Αν έχετε προβλήματα με την εφαρμογή, απλά ρωτήστε μας και εμείς θα σας συμβουλέψουμε" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Αν έχετε προβλήματα με την εφαρμογή, απλά ρωτήστε μας και εμείς θα σας συμβουλέψουμε" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Υποστήριξη και συχνές ερωτήσεις των Χρήσιμων ταξιδιωτικών φράσεων" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Υποστήριξη και συχνές ερωτήσεις των Χρήσιμων ταξιδιωτικών φράσεων">
+<meta itemprop="description" content="Αν έχετε προβλήματα με την εφαρμογή, απλά ρωτήστε μας και εμείς θα σας συμβουλέψουμε" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

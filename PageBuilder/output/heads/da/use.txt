@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Brugen af rejseparløren</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Alle lande (stater), hvor du kan tale med fremmedsprog fra vores Rejseparlør.">
+<meta name="keywords" content="rejse, brug, fremmed, stat, land, konversation, sprog">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/anvendelse-rejseparloer-stater" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Brugen af rejseparløren" />
+<meta property="og:description" content="Alle lande (stater), hvor du kan tale med fremmedsprog fra vores Rejseparlør." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Alle lande (stater), hvor du kan tale med fremmedsprog fra vores Rejseparlør." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Brugen af rejseparløren" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Brugen af rejseparløren">
+<meta itemprop="description" content="Alle lande (stater), hvor du kan tale med fremmedsprog fra vores Rejseparlør." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

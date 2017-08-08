@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/rejseparloer"><strong>Rejseparlør</strong></a></li>
+                            <li><a href="/egenskaber-konversation"><strong>Applikationens egenskaber</strong></a>
+                                <li><a href="/hvordan-ser-konversation-ud"><strong>Applikationens preview<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hvordan-ser-ipad-konversation-ud">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hvordan-ser-konversation-ud-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hvordan-ser-konversation-ud-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/anvendelse-rejseparloer-stater"><strong>Anvendelse</strong></a></li>
+                            <li><a href="/support-saetninger"><strong>Support</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/support-saetninger-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/support-saetninger-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/support-saetninger-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/kontakt-saetninger"><strong>Kontakter</strong></a></li>
+                        </ul>
+                        </div>

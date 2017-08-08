@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>iOS: للعبارات المستخدمة في السفر FAQ الدعم و</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="إذا ما واجهتكم مشاكل مع التطبيق على iPhoneأو iPadلا تتردوا في سؤالنا و نحن سوف نقوم بمساعدتكم.">
+<meta name="keywords" content="faq الدعم التطبيق iphone(اي فون) ipad (اي باد)">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/aldaim-mrhala-iphone" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="iOS: للعبارات المستخدمة في السفر FAQ الدعم و" />
+<meta property="og:description" content="إذا ما واجهتكم مشاكل مع التطبيق على iPhoneأو iPadلا تتردوا في سؤالنا و نحن سوف نقوم بمساعدتكم." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="إذا ما واجهتكم مشاكل مع التطبيق على iPhoneأو iPadلا تتردوا في سؤالنا و نحن سوف نقوم بمساعدتكم." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="iOS: للعبارات المستخدمة في السفر FAQ الدعم و" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="iOS: للعبارات المستخدمة في السفر FAQ الدعم و">
+<meta itemprop="description" content="إذا ما واجهتكم مشاكل مع التطبيق على iPhoneأو iPadلا تتردوا في سؤالنا و نحن سوف نقوم بمساعدتكم." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>使用旅行常用会话指南</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="使用旅行常用会话指南，你可以在任何一个国家使用它们的语言">
+<meta name="keywords" content="旅行使用国外联邦对话语言会话指南">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/china-practice-travel-phrasebook-states" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="使用旅行常用会话指南" />
+<meta property="og:description" content="使用旅行常用会话指南，你可以在任何一个国家使用它们的语言" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="使用旅行常用会话指南，你可以在任何一个国家使用它们的语言" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="使用旅行常用会话指南" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="使用旅行常用会话指南">
+<meta itemprop="description" content="使用旅行常用会话指南，你可以在任何一个国家使用它们的语言" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

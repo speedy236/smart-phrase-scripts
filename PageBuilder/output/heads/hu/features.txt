@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Útiszótár tulajdonságai</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Az Útiszótár teljes, 22 nyelvet tartalmazó kollekciójával 215 országban értetheti meg magát.">
+<meta name="keywords" content="utazási, társalgás, tulajdonságok, útiszótár">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/utiszotar-tulajdonsagai" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Útiszótár tulajdonságai" />
+<meta property="og:description" content="Az Útiszótár teljes, 22 nyelvet tartalmazó kollekciójával 215 országban értetheti meg magát." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Az Útiszótár teljes, 22 nyelvet tartalmazó kollekciójával 215 országban értetheti meg magát." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Útiszótár tulajdonságai" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Útiszótár tulajdonságai">
+<meta itemprop="description" content="Az Útiszótár teljes, 22 nyelvet tartalmazó kollekciójával 215 országban értetheti meg magát." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

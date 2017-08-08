@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/cestovni-konverzace"><strong>Úvod</strong></a></li>
+                            <li><a href="/vlastnosti-konverzace"><strong>Vlastnosti</strong></a>
+                                <li><a href="/jak-vypada-konverzace"><strong>Náhled<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/jak-vypada-ipad-konverzace">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/jak-vypada-konverzace-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/jak-vypada-konverzace-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/uplatneni-cestovni-konverzace-staty"><strong>Uplatnění</strong></a></li>
+                            <li><a href="/podpora-fraze"><strong>Podpora</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/podpora-fraze-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/podpora-fraze-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/podpora-fraze-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/kontakt-fraze"><strong>Kontakty</strong></a></li>
+                        </ul>
+                        </div>

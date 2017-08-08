@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/diccionario-de-viaje"><strong>Diccionario de viaje</strong></a></li>
+                            <li><a href="/caracteristicas-conversacion"><strong>Características</strong></a>
+                                <li><a href="/como-es-conversacion"><strong>Vista preliminar<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/como-es-ipad-conversacion">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/como-es-conversacion-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/como-es-conversacion-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/uso-diccionario-de-viaje-paises"><strong>Uso</strong></a></li>
+                            <li><a href="/soporte-frase"><strong>Soporte</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/soporte-frase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/soporte-frase-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/soporte-frase-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/contacto-frase"><strong>Contactos</strong></a></li>
+                        </ul>
+                        </div>

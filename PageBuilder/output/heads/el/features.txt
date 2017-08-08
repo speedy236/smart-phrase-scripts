@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Ιδιότητες των Χρήσιμων ταξιδιωτικών φράσεων</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Η εφαρμογή των Χρήσιμων ταξιδιωτικών φράσεων περιέχει 22 γλώσσες">
+<meta name="keywords" content="ιδιότητα, Φρασεολογία, ταξιδι, Χρήσιμες, ταξιδιωτικές, φράσεις">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/idiotites-sinomilia" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ιδιότητες των Χρήσιμων ταξιδιωτικών φράσεων" />
+<meta property="og:description" content="Η εφαρμογή των Χρήσιμων ταξιδιωτικών φράσεων περιέχει 22 γλώσσες" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Η εφαρμογή των Χρήσιμων ταξιδιωτικών φράσεων περιέχει 22 γλώσσες" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Ιδιότητες των Χρήσιμων ταξιδιωτικών φράσεων" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Ιδιότητες των Χρήσιμων ταξιδιωτικών φράσεων">
+<meta itemprop="description" content="Η εφαρμογή των Χρήσιμων ταξιδιωτικών φράσεων περιέχει 22 γλώσσες" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

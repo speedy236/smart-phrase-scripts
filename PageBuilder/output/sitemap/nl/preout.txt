@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/conversatiegids"><strong>Conversatiegids</strong></a></li>
+                            <li><a href="/eigenschappen-conversatie"><strong>Eigendommen van de applicatie</strong></a>
+                                <li><a href="/hoe-ziet-de-conversatie-eruit"><strong>Inzage applicatie<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hoe-ziet-de-ipad-conversatie-eruit">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hoe-ziet-de-conversatie-eruit-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/hoe-ziet-de-conversatie-eruit-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/toepassing-reis-conversatie-landen"><strong>Toepassing</strong></a></li>
+                            <li><a href="/ondersteuning-uitdrukkingen"><strong>Ondersteuning</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ondersteuning-uitdrukkingen-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ondersteuning-uitdrukkingen-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ondersteuning-uitdrukkingen-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/contact-uitdrukking"><strong>Contacten</strong></a></li>
+                        </ul>
+                        </div>

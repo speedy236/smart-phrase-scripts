@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Window 8: Podpora a FAQ</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Nevíte si rady s naší aplikací pro Windows 8? Zeptejte se nás..">
+<meta name="keywords" content="faq, podpora, aplikace, windows 8">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/podpora-fraze-windows8" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Window 8: Podpora a FAQ" />
+<meta property="og:description" content="Nevíte si rady s naší aplikací pro Windows 8? Zeptejte se nás.." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Nevíte si rady s naší aplikací pro Windows 8? Zeptejte se nás.." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Window 8: Podpora a FAQ" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Window 8: Podpora a FAQ">
+<meta itemprop="description" content="Nevíte si rady s naší aplikací pro Windows 8? Zeptejte se nás.." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

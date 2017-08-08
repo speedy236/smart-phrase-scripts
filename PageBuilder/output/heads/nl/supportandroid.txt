@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Android: FAQ / Ondersteuning</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Indien u problemen met de applicatie, hebt vraag de hulp aan ons">
+<meta name="keywords" content="faq, ondersteuning, applicatie, android">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ondersteuning-uitdrukkingen-android" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Android: FAQ / Ondersteuning" />
+<meta property="og:description" content="Indien u problemen met de applicatie, hebt vraag de hulp aan ons" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Indien u problemen met de applicatie, hebt vraag de hulp aan ons" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Android: FAQ / Ondersteuning" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Android: FAQ / Ondersteuning">
+<meta itemprop="description" content="Indien u problemen met de applicatie, hebt vraag de hulp aan ons" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

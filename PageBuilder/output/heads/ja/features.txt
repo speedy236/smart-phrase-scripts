@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>旅行会話の特徴</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="でご利用いただける旅行会話22言語収録">
+<meta name="keywords" content="旅行 会話 の特徴">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ja-features-conversation" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="旅行会話の特徴" />
+<meta property="og:description" content="でご利用いただける旅行会話22言語収録" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="でご利用いただける旅行会話22言語収録" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="旅行会話の特徴" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="旅行会話の特徴">
+<meta itemprop="description" content="でご利用いただける旅行会話22言語収録" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

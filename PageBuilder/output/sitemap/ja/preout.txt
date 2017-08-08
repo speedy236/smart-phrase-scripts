@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/ja-travel-conversation"><strong>旅行会話</strong></a></li>
+                            <li><a href="/ja-features-conversation"><strong>旅行会話の特徴</strong></a>
+                                <li><a href="/ja-how-appears-conversation"><strong>アプリケーションのプレビュー<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ja-how-appears-ipad-conversation">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ja-how-appears-conversation-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ja-how-appears-conversation-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/ja-practise-travel-conversation-states"><strong>練習</strong></a></li>
+                            <li><a href="/ja-support-phrase"><strong>サポート</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ja-support-phrase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ja-support-phrase-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ja-support-phrase-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/ja-contact-phrase"><strong>コンタクト</strong></a></li>
+                        </ul>
+                        </div>

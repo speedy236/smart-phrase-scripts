@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Matkasanakirjan ominaisuudet</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Matkasanakirjan - sovellus sisältää 22 kieltä">
+<meta name="keywords" content="ominaisuudet, fraasisanakirja, matkailu">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ominaisuudet-fraasisanakirja" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Matkasanakirjan ominaisuudet" />
+<meta property="og:description" content="Matkasanakirjan - sovellus sisältää 22 kieltä" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Matkasanakirjan - sovellus sisältää 22 kieltä" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Matkasanakirjan ominaisuudet" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Matkasanakirjan ominaisuudet">
+<meta itemprop="description" content="Matkasanakirjan - sovellus sisältää 22 kieltä" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/matkasanakirja"><strong>Matkasanakirja</strong></a></li>
+                            <li><a href="/ominaisuudet-fraasisanakirja"><strong>Sovelluksen ominaisuudet</strong></a>
+                                <li><a href="/milta-nayttaa-fraasisanakirja"><strong>Sovelluksen esikatselu<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/milta-nayttaa-ipad-fraasisanakirja">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/milta-nayttaa-fraasisanakirja-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/milta-nayttaa-fraasisanakirja-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/kaytannossa-matkasanakirja-valtiot"><strong>Käytännössä</strong></a></li>
+                            <li><a href="/tuki-fraasi"><strong>Tuki</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/tuki-fraasi-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/tuki-fraasi-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/tuki-fraasi-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/yhteystiedot-fraasi"><strong>Yhteystiedot</strong></a></li>
+                        </ul>
+                        </div>

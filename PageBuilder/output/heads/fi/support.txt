@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Matkasanakirjan tuki ja FAQ</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Kysy meiltä, jos sinulla - sovellukseen liittyviä ongelmia, neuvomme mielellämme">
+<meta name="keywords" content="faq, tuki, sovellus">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/tuki-fraasi" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Matkasanakirjan tuki ja FAQ" />
+<meta property="og:description" content="Kysy meiltä, jos sinulla - sovellukseen liittyviä ongelmia, neuvomme mielellämme" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Kysy meiltä, jos sinulla - sovellukseen liittyviä ongelmia, neuvomme mielellämme" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Matkasanakirjan tuki ja FAQ" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Matkasanakirjan tuki ja FAQ">
+<meta itemprop="description" content="Kysy meiltä, jos sinulla - sovellukseen liittyviä ongelmia, neuvomme mielellämme" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

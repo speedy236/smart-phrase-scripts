@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/conversazione-da-viaggio"><strong>Conversazione da Viaggio</strong></a></li>
+                            <li><a href="/proprieta-conversazione"><strong>Applicazione proprietà</strong></a>
+                                <li><a href="/presentazione-conversazione"><strong>Profilo dell’applicazione<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/presentazione-conversazione-ipad">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/presentazione-conversazione-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/presentazione-conversazione-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/utilizzo-conversazione-viaggio-stati"><strong>Utilizzo</strong></a></li>
+                            <li><a href="/assistenza-espressione"><strong>Assistenza</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/assistenza-espressione-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/assistenza-espressione-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/assistenza-espressione-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/contatto-espressione"><strong>Contatti</strong></a></li>
+                        </ul>
+                        </div>

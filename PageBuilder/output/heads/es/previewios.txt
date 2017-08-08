@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Muestra en iPhone</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="El Diccionario de viaje en iPhone o iPad permite estudiar hasta 22 lenguas">
+<meta name="keywords" content="muestra demo conversación de viaje diccionario">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/como-es-ipad-conversacion" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Muestra en iPhone" />
+<meta property="og:description" content="El Diccionario de viaje en iPhone o iPad permite estudiar hasta 22 lenguas" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="El Diccionario de viaje en iPhone o iPad permite estudiar hasta 22 lenguas" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Muestra en iPhone" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Muestra en iPhone">
+<meta itemprop="description" content="El Diccionario de viaje en iPhone o iPad permite estudiar hasta 22 lenguas" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

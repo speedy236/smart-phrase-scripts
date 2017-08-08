@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Właściwości Rozmówek turystycznych</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Aplikacja Rozmówki turystyczne na iPhone‘a i iPada zawiera 22 języki">
+<meta name="keywords" content="właściwości rozmówki turystyczny">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/wlasciwosci-rozmowki" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Właściwości Rozmówek turystycznych" />
+<meta property="og:description" content="Aplikacja Rozmówki turystyczne na iPhone‘a i iPada zawiera 22 języki" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Aplikacja Rozmówki turystyczne na iPhone‘a i iPada zawiera 22 języki" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Właściwości Rozmówek turystycznych" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Właściwości Rozmówek turystycznych">
+<meta itemprop="description" content="Aplikacja Rozmówki turystyczne na iPhone‘a i iPada zawiera 22 języki" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Ukázka na iPhone</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Cestovní konverzace na iPhone či iPad umožňuje studovat až 22 jazyků">
+<meta name="keywords" content="ukázka demo cestovní konverzace">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/jak-vypada-ipad-konverzace" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ukázka na iPhone" />
+<meta property="og:description" content="Cestovní konverzace na iPhone či iPad umožňuje studovat až 22 jazyků" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Cestovní konverzace na iPhone či iPad umožňuje studovat až 22 jazyků" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Ukázka na iPhone" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Ukázka na iPhone">
+<meta itemprop="description" content="Cestovní konverzace na iPhone či iPad umožňuje studovat až 22 jazyků" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

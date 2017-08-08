@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Windows 8: Suporte e FAQ Conversação em Viagem</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Se tiver problemas com a aplicação, pergunte-nos e nós iremos aconselha-lo(a)">
+<meta name="keywords" content="FAQ, suporte, aplicação, windows 8">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/suporte-locucao-windows8" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Windows 8: Suporte e FAQ Conversação em Viagem" />
+<meta property="og:description" content="Se tiver problemas com a aplicação, pergunte-nos e nós iremos aconselha-lo(a)" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Se tiver problemas com a aplicação, pergunte-nos e nós iremos aconselha-lo(a)" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Windows 8: Suporte e FAQ Conversação em Viagem" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Windows 8: Suporte e FAQ Conversação em Viagem">
+<meta itemprop="description" content="Se tiver problemas com a aplicação, pergunte-nos e nós iremos aconselha-lo(a)" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

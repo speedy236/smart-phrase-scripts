@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Kontakty</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Napište autorům Cestovní konverzace jakékoliv vaše poznatky z provozu aplikace">
+<meta name="keywords" content="kontakt">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/kontakt-fraze" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Kontakty" />
+<meta property="og:description" content="Napište autorům Cestovní konverzace jakékoliv vaše poznatky z provozu aplikace" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Napište autorům Cestovní konverzace jakékoliv vaše poznatky z provozu aplikace" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Kontakty" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Kontakty">
+<meta itemprop="description" content="Napište autorům Cestovní konverzace jakékoliv vaše poznatky z provozu aplikace" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

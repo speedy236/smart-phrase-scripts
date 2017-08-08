@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Контакти</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Напишете на авторите на Пътнически разговорник всички ваши забележки при ползване на приложението.">
+<meta name="keywords" content="Контакт">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/kontakt-fraza" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Контакти" />
+<meta property="og:description" content="Напишете на авторите на Пътнически разговорник всички ваши забележки при ползване на приложението." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Напишете на авторите на Пътнически разговорник всички ваши забележки при ползване на приложението." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Контакти" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Контакти">
+<meta itemprop="description" content="Напишете на авторите на Пътнически разговорник всички ваши забележки при ползване на приложението." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

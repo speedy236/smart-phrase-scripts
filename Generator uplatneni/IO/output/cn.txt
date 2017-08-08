@@ -1,0 +1,1184 @@
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-af
+"></div>
+	<div>阿富汗</div>
+</div>
+<div class="gr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-al
+"></div>
+	<div>阿尔巴尼亚</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-dz
+"></div>
+	<div>阿尔及利亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-as
+"></div>
+	<div>美属萨摩亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-vi
+"></div>
+	<div>美属维尔京群岛</div>
+</div>
+<div class="fr es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ad
+"></div>
+	<div>安道​​尔</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ao
+"></div>
+	<div>安哥拉</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ai
+"></div>
+	<div>安圭拉</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ag
+"></div>
+	<div>安提瓜和巴布达</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ar
+"></div>
+	<div>阿根廷</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-am
+"></div>
+	<div>亚美尼亚</div>
+</div>
+<div class="us nl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-aw
+"></div>
+	<div>阿鲁巴</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-au
+"></div>
+	<div>澳大利亚</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-az
+"></div>
+	<div>阿塞拜疆</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bs
+"></div>
+	<div>巴哈马</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bh
+"></div>
+	<div>巴林</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bd
+"></div>
+	<div>孟加拉国</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bb
+"></div>
+	<div>巴巴多斯</div>
+</div>
+<div class="de fr nl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-be
+"></div>
+	<div>比利时</div>
+</div>
+<div class="us es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bz
+"></div>
+	<div>伯利兹</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-by
+"></div>
+	<div>白俄罗斯</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bj
+"></div>
+	<div>贝宁</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bm
+"></div>
+	<div>百慕大</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bt
+"></div>
+	<div>不丹</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bo
+"></div>
+	<div>玻利维亚</div>
+</div>
+<div class="hr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ba
+"></div>
+	<div>波斯尼亚和黑塞哥维那</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bw
+"></div>
+	<div>博茨瓦纳</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-br
+"></div>
+	<div>巴西</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-vg
+"></div>
+	<div>英属维尔京群岛</div>
+</div>
+<div class="us cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bn
+"></div>
+	<div>文莱</div>
+</div>
+<div class="tr bg flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bg
+"></div>
+	<div>保加利亚</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bf
+"></div>
+	<div>布基纳法索</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bi
+"></div>
+	<div>布隆迪</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ck
+"></div>
+	<div>库克群岛</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-td
+"></div>
+	<div>乍得</div>
+</div>
+<div class="pl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-me
+"></div>
+	<div>黑山</div>
+</div>
+<div class="cz flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cz
+"></div>
+	<div>捷克共和国</div>
+</div>
+<div class="us cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cn
+"></div>
+	<div>中国</div>
+</div>
+<div class="de dk flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-dk
+"></div>
+	<div>丹麦</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cd
+"></div>
+	<div>刚果民主共和国</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-dm
+"></div>
+	<div>多米尼克</div>
+</div>
+<div class="us es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-do
+"></div>
+	<div>多米尼加共和国</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-dj
+"></div>
+	<div>吉布提</div>
+</div>
+<div class="gr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-eg
+"></div>
+	<div>埃及</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ec
+"></div>
+	<div>厄瓜多尔</div>
+</div>
+<div class="us sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-er
+"></div>
+	<div>厄立特里亚</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ee
+"></div>
+	<div>爱沙尼亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-et
+"></div>
+	<div>埃塞俄比亚</div>
+</div>
+<div class="dk flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-fo
+"></div>
+	<div>法罗群岛</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-fk
+"></div>
+	<div>福克兰群岛</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-fm
+"></div>
+	<div>密克罗尼西亚联邦</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-fj
+"></div>
+	<div>斐济</div>
+</div>
+<div class="us es cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ph
+"></div>
+	<div>菲律宾</div>
+</div>
+<div class="ru fi se flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-fi
+"></div>
+	<div>芬兰</div>
+</div>
+<div class="de es it nl pt fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-fr
+"></div>
+	<div>法国</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gf
+"></div>
+	<div>法属圭亚那</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pf
+"></div>
+	<div>法属波利尼西亚</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ga
+"></div>
+	<div>加蓬</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gm
+"></div>
+	<div>冈比亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gh
+"></div>
+	<div>加纳</div>
+</div>
+<div class="us es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gl
+"></div>
+	<div>直布罗陀</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gd
+"></div>
+	<div>格林纳达</div>
+</div>
+<div class="dk flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gl
+"></div>
+	<div>格陵兰</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ge
+"></div>
+	<div>格鲁吉亚</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gp
+"></div>
+	<div>瓜德罗普岛</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gu
+"></div>
+	<div>关岛</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gt
+"></div>
+	<div>危地马拉</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gg
+"></div>
+	<div>根西岛</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gn
+"></div>
+	<div>几内亚</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gw
+"></div>
+	<div>几内亚比绍</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gy
+"></div>
+	<div>圭亚那</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ht
+"></div>
+	<div>海地</div>
+</div>
+<div class="us es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-hn
+"></div>
+	<div>洪都拉斯</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-hk
+"></div>
+	<div>香港</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cl
+"></div>
+	<div>智利</div>
+</div>
+<div class="it hr hu fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-hr
+"></div>
+	<div>克罗地亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-in
+"></div>
+	<div>印度</div>
+</div>
+<div class="cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-id
+"></div>
+	<div>印尼</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-iq
+"></div>
+	<div>伊拉克</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ir
+"></div>
+	<div>伊朗</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ie
+"></div>
+	<div>爱尔兰</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-is
+"></div>
+	<div>冰岛</div>
+</div>
+<div class="de fr it hr gr fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-it
+"></div>
+	<div>意大利</div>
+</div>
+<div class="us ru pl hu sa il flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-il
+"></div>
+	<div>以色列</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-jm
+"></div>
+	<div>牙买加</div>
+</div>
+<div class="jp flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-jp
+"></div>
+	<div>日本</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ye
+"></div>
+	<div>也门</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-je
+"></div>
+	<div>新泽西州</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-za
+"></div>
+	<div>南非</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kr
+"></div>
+	<div>韩国</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ss
+"></div>
+	<div>苏丹南部</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-jo
+"></div>
+	<div>约旦</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ky
+"></div>
+	<div>开曼群岛</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kh
+"></div>
+	<div>柬埔寨</div>
+</div>
+<div class="us fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cm
+"></div>
+	<div>喀麦隆</div>
+</div>
+<div class="us fr ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ca
+"></div>
+	<div>加拿大</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cv
+"></div>
+	<div>佛得角</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-qa
+"></div>
+	<div>卡塔尔</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kz
+"></div>
+	<div>哈萨克斯坦</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ke
+"></div>
+	<div>肯尼亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ki
+"></div>
+	<div>基里巴斯</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-co
+"></div>
+	<div>哥伦比亚</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-km
+"></div>
+	<div>科摩罗</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-xk
+"></div>
+	<div>科索沃</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cr
+"></div>
+	<div>哥斯达黎加</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cu
+"></div>
+	<div>古巴</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kw
+"></div>
+	<div>科威特</div>
+</div>
+<div class="gr tr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cy
+"></div>
+	<div>塞浦路斯</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kg
+"></div>
+	<div>吉尔吉斯斯坦</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-la
+"></div>
+	<div>老挝</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ls
+"></div>
+	<div>莱索托</div>
+</div>
+<div class="us fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lb
+"></div>
+	<div>黎巴嫩</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lr
+"></div>
+	<div>利比里亚</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ly
+"></div>
+	<div>利比亚</div>
+</div>
+<div class="de flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-li
+"></div>
+	<div>列支敦士登</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lt
+"></div>
+	<div>立陶宛</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lv
+"></div>
+	<div>拉脱维亚</div>
+</div>
+<div class="de fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lu
+"></div>
+	<div>卢森堡</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mo
+"></div>
+	<div>澳门</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mg
+"></div>
+	<div>马达加斯加</div>
+</div>
+<div class="hr hu flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-hu
+"></div>
+	<div>匈牙利</div>
+</div>
+<div class="tr bg flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mk
+"></div>
+	<div>马其顿</div>
+</div>
+<div class="us cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-my
+"></div>
+	<div>马来西亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mw
+"></div>
+	<div>马拉维</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mv
+"></div>
+	<div>马尔代夫</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ml
+"></div>
+	<div>马里</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mt
+"></div>
+	<div>马耳他</div>
+</div>
+<div class="es sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ma
+"></div>
+	<div>摩洛哥</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mh
+"></div>
+	<div>马绍尔群岛</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mq
+"></div>
+	<div>马提尼克岛</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mr
+"></div>
+	<div>毛里塔尼亚</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mu
+"></div>
+	<div>毛里求斯</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-yt
+"></div>
+	<div>马约特岛</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mx
+"></div>
+	<div>墨西哥</div>
+</div>
+<div class="ru bg flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-md
+"></div>
+	<div>摩尔多瓦</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mc
+"></div>
+	<div>摩纳哥</div>
+</div>
+<div class="cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mn
+"></div>
+	<div>蒙古</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ms
+"></div>
+	<div>蒙特塞拉特</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mz
+"></div>
+	<div>莫桑比克</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mm
+"></div>
+	<div>缅甸</div>
+</div>
+<div class="us de flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-na
+"></div>
+	<div>纳米比亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-nr
+"></div>
+	<div>瑙鲁</div>
+</div>
+<div class="de pl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-de
+"></div>
+	<div>德国</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-np
+"></div>
+	<div>尼泊尔</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ni
+"></div>
+	<div>尼加拉瓜</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ne
+"></div>
+	<div>尼日尔</div>
+</div>
+<div class="us sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ng
+"></div>
+	<div>尼日利亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-nu
+"></div>
+	<div>纽埃</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-an
+"></div>
+	<div>荷属安的列斯</div>
+</div>
+<div class="nl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-nl
+"></div>
+	<div>荷兰</div>
+</div>
+<div class="no flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-no
+"></div>
+	<div>挪威</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-nc
+"></div>
+	<div>新喀里多尼亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-nz
+"></div>
+	<div>新西兰</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-om
+"></div>
+	<div>阿曼</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-im
+"></div>
+	<div>马恩岛</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pk
+"></div>
+	<div>巴基斯坦</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pw
+"></div>
+	<div>帕劳</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ps
+"></div>
+	<div>巴勒斯坦</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pa
+"></div>
+	<div>巴拿马</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pg
+"></div>
+	<div>巴布亚新几内亚</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-py
+"></div>
+	<div>巴拉圭</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pe
+"></div>
+	<div>秘鲁</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pn
+"></div>
+	<div>皮特凯恩群岛</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ci
+"></div>
+	<div>科特迪瓦</div>
+</div>
+<div class="pl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pl
+"></div>
+	<div>波兰</div>
+</div>
+<div class="us es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pr
+"></div>
+	<div>波多黎各</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pt
+"></div>
+	<div>葡萄牙</div>
+</div>
+<div class="de hr hu flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-at
+"></div>
+	<div>奥地利</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cg
+"></div>
+	<div>刚果共和国</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-re
+"></div>
+	<div>团圆</div>
+</div>
+<div class="fr es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gq
+"></div>
+	<div>赤道几内亚</div>
+</div>
+<div class="pl hu gr tr bg flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ro
+"></div>
+	<div>罗马尼亚</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ru
+"></div>
+	<div>俄罗斯</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-rw
+"></div>
+	<div>卢旺达</div>
+</div>
+<div class="gr tr bg flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gr
+"></div>
+	<div>希腊</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-bl
+"></div>
+	<div>圣巴泰勒米</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mf
+"></div>
+	<div>圣马丁</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-pm
+"></div>
+	<div>圣皮埃尔和密克隆岛</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sv
+"></div>
+	<div>萨尔瓦多</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ws
+"></div>
+	<div>萨摩亚</div>
+</div>
+<div class="it fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sm
+"></div>
+	<div>圣马力诺</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sa
+"></div>
+	<div>沙特阿拉伯</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sn
+"></div>
+	<div>塞内加尔</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kp
+"></div>
+	<div>朝鲜</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-mp
+"></div>
+	<div>北马里亚纳群岛</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sc
+"></div>
+	<div>塞舌尔</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sl
+"></div>
+	<div>塞拉利昂</div>
+</div>
+<div class="us cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sg
+"></div>
+	<div>新加坡</div>
+</div>
+<div class="cz pl hu flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sk
+"></div>
+	<div>斯洛伐克</div>
+</div>
+<div class="it hu fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-si
+"></div>
+	<div>斯洛文尼亚</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-so
+"></div>
+	<div>索马里兰</div>
+</div>
+<div class="us sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-so
+"></div>
+	<div>索马里</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ae
+"></div>
+	<div>阿拉伯联合酋长国</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-gb
+"></div>
+	<div>英国</div>
+</div>
+<div class="us fr es ru il flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-us
+"></div>
+	<div>美国</div>
+</div>
+<div class="hu bg flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-rs
+"></div>
+	<div>塞尔维亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lk
+"></div>
+	<div>斯里兰卡</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-cf
+"></div>
+	<div>中非共和国</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sd
+"></div>
+	<div>苏丹</div>
+</div>
+<div class="nl flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sr
+"></div>
+	<div>苏里南</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sh
+"></div>
+	<div>圣赫勒拿</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-lc
+"></div>
+	<div>圣卢西亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-kn
+"></div>
+	<div>圣基茨和尼维斯</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-st
+"></div>
+	<div>圣多美与普林西比</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-vc
+"></div>
+	<div>圣文森特和格林纳丁斯</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sz
+"></div>
+	<div>斯威士兰</div>
+</div>
+<div class="sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sy
+"></div>
+	<div>叙利亚</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-sb
+"></div>
+	<div>所罗门群岛</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-es
+"></div>
+	<div>西班牙</div>
+</div>
+<div class="se flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-se
+"></div>
+	<div>瑞典</div>
+</div>
+<div class="de fr it fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ch
+"></div>
+	<div>瑞士</div>
+</div>
+<div class="ru sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tj
+"></div>
+	<div>塔吉克斯坦</div>
+</div>
+<div class="jp cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tw
+"></div>
+	<div>台湾</div>
+</div>
+<div class="us sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tz
+"></div>
+	<div>坦桑尼亚</div>
+</div>
+<div class="cn flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-th
+"></div>
+	<div>泰国</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tg
+"></div>
+	<div>多哥</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tk
+"></div>
+	<div>托克劳</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-to
+"></div>
+	<div>汤加</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tt
+"></div>
+	<div>特里尼达和多巴哥</div>
+</div>
+<div class="fr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tn
+"></div>
+	<div>突尼斯</div>
+</div>
+<div class="gr tr bg sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tr
+"></div>
+	<div>土耳其</div>
+</div>
+<div class="ru flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tm
+"></div>
+	<div>土库曼斯坦</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tc
+"></div>
+	<div>特克斯和凯科斯群岛</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tv
+"></div>
+	<div>图瓦卢</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ug
+"></div>
+	<div>乌干达</div>
+</div>
+<div class="hu gr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ua
+"></div>
+	<div>乌克兰</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-uy
+"></div>
+	<div>乌拉圭</div>
+</div>
+<div class="ru tr sa flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-uz
+"></div>
+	<div>乌兹别克斯坦</div>
+</div>
+<div class="us fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-vu
+"></div>
+	<div>瓦努阿图</div>
+</div>
+<div class="it fi flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-va
+"></div>
+	<div>梵蒂冈城</div>
+</div>
+<div class="es flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-ve
+"></div>
+	<div>委内瑞拉</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-vn
+"></div>
+	<div>越南</div>
+</div>
+<div class="pt flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-tl
+"></div>
+	<div>东帝汶</div>
+</div>
+<div class="fr flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-wf
+"></div>
+	<div>瓦利斯群岛和富图纳群岛</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-zm
+"></div>
+	<div>赞比亚</div>
+</div>
+<div class=" flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-eh
+"></div>
+	<div>西撒哈拉</div>
+</div>
+<div class="us flag pull-left text-center">
+	<div style="font-size: 45pt;" class="flag-icon flag-icon-zw"></div>
+	<div>津巴布韦</div>
+</div>

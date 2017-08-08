@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/chrisimes-taxidiotikes-frasis"><strong>Χρήσιμες ταξιδιωτικές φράσεις</strong></a></li>
+                            <li><a href="/idiotites-sinomilia"><strong>Ιδιότητες εφαρμογής</strong></a>
+                                <li><a href="/pos-fainetai-sinomilia"><strong>Προβολή εφαρμογών<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/pos-fainetai-ipad-sinomilia">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/pos-fainetai-sinomilia-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/pos-fainetai-sinomilia-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/efarmogi-chrisimes-taxidiotikes-frasis-chores"><strong>Εφαρμογή</strong></a></li>
+                            <li><a href="/ipostiriksi-frasi"><strong>Υποστήριξη</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ipostiriksi-frasi-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ipostiriksi-frasi-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/ipostiriksi-frasi-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/epafi-frasi"><strong>Επαφές</strong></a></li>
+                        </ul>
+                        </div>

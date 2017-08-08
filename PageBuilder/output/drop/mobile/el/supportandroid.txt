@@ -1,0 +1,29 @@
+<div class="dropdown" id="language-switch-mobile">
+	<button class="btn btn-default btn-sm" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		<i class="flag-icon flag-icon-gr"></i> Ελληνικά
+	</button>
+	<ul class="dropdown-menu" aria-labelledby="dropdownMenu1" style="z-index: 1001;">
+		<li><a href="/podpora-fraze-android"><i class="flag-icon flag-icon-cz"></i> Česky</a></li>
+		<li><a href="/support-saetninger-android"><i class="flag-icon flag-icon-dk"></i> Dansk</a></li>
+		<li><a href="/support-phrasen-android"><i class="flag-icon flag-icon-de"></i> Deutsch</a></li>
+		<li><a href="/support-phrase-android"><i class="flag-icon flag-icon-us"></i> English</a></li>
+		<li><a href="/soporte-frase-android"><i class="flag-icon flag-icon-es"></i> Español</a></li>
+		<li><a href="/soutien-phrases-android"><i class="flag-icon flag-icon-fr"></i> Français</a></li>
+		<li><a href="/podrska-fraze-android"><i class="flag-icon flag-icon-hr"></i> Hrvatski</a></li>
+		<li><a href="/assistenza-espressione-android"><i class="flag-icon flag-icon-it"></i> Italiano</a></li>
+		<li><a href="/segitseg-kifejezes-android"><i class="flag-icon flag-icon-hu"></i> Magyar</a></li>
+		<li><a href="/ondersteuning-uitdrukkingen-android"><i class="flag-icon flag-icon-nl"></i> Nederlands</a></li>
+		<li><a href="/support-frase-android"><i class="flag-icon flag-icon-no"></i> Norsk</a></li>
+		<li><a href="/pomoc-frazy-android"><i class="flag-icon flag-icon-pl"></i> Polski</a></li>
+		<li><a href="/suporte-locucao-android"><i class="flag-icon flag-icon-pt"></i> Português</a></li>
+		<li><a href="/tuki-fraasi-android"><i class="flag-icon flag-icon-fi"></i> Suomeksi</a></li>
+		<li><a href="/stod-fras-android"><i class="flag-icon flag-icon-se"></i> Svenska</a></li>
+		<li><a href="/destek-ifade-android"><i class="flag-icon flag-icon-tr"></i> Türkçe</a></li>
+		<li><a href="/poddrazka-fraza-android"><i class="flag-icon flag-icon-bg"></i> български</a></li>
+		<li><a href="/ru-support-phrase-android"><i class="flag-icon flag-icon-ru"></i> Русский</a></li>
+		<li><a href="/he-support-phrase-android"><i class="flag-icon flag-icon-il"></i> עברית</a></li>
+		<li><a href="/aldaim-mrhala-android"><i class="flag-icon flag-icon-sa"></i> العربية</a></li>
+		<li><a href="/china-support-phrase-android"><i class="flag-icon flag-icon-cn"></i> 中文</a></li>
+		<li><a href="/ja-support-phrase-android"><i class="flag-icon flag-icon-jp"></i> 日本語</a></li>
+	</ul>
+</div>

@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>SmartPhraseの紹介</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="SmartPhrase旅行会話の基本情報">
+<meta name="keywords" content="会話 紹介 旅行">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ja-travel-conversation" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="SmartPhraseの紹介" />
+<meta property="og:description" content="SmartPhrase旅行会話の基本情報" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="SmartPhrase旅行会話の基本情報" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="SmartPhraseの紹介" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="SmartPhraseの紹介">
+<meta itemprop="description" content="SmartPhrase旅行会話の基本情報" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

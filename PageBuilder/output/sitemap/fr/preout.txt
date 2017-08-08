@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/voyage-conversation"><strong>Conversation de voyage</strong></a></li>
+                            <li><a href="/proprietes-conversation"><strong>Propriétés</strong></a>
+                                <li><a href="/a-quoi-ressemble-conversations"><strong>Apperçus<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/a-quoi-ressemble-conversations-ipad">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/a-quoi-ressemble-conversations-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/a-quoi-ressemble-conversations-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/application-conversation-voyage-etats"><strong>Application</strong></a></li>
+                            <li><a href="/soutien-phrases"><strong>Soutien</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/soutien-phrases-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/soutien-phrases-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/soutien-phrases-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/phrase-contact"><strong>Contacts</strong></a></li>
+                        </ul>
+                        </div>

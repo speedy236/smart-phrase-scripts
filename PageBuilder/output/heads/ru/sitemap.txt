@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Карта сайта</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Карта сайта">
+<meta name="keywords" content="sitemap">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ru-sitemap" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Карта сайта" />
+<meta property="og:description" content="Карта сайта" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Карта сайта" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Карта сайта" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Карта сайта">
+<meta itemprop="description" content="Карта сайта" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

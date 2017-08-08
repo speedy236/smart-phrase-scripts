@@ -1,0 +1,17 @@
+<div class="page-banner" style="padding:40px 0; background: url(../../images/travelers-phrasebook-banner.jpg) center #f9f9f9;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h1>iOS: Destek ve SSS Seyahat konuşma kılavuzu</h1>
+				<p></p>
+			</div>
+			<div class="col-md-8">
+					<ul class="breadcrumbs">
+						<li><a href="/seyahat-konusma-kilavuzu">SmartPhrase tanıtımı</a></li>
+						<li><a href="/destek-ifade">Destek ve SSS Seyahat konuşma kılavuzu</a></li>
+						<li>iOS: Destek ve SSS Seyahat konuşma kılavuzu</li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</div>

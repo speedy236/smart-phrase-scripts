@@ -1,0 +1,207 @@
+$pageString = '<!doctype html>
+<!--[if IE 8 ]><html class="ie ie8" lang="cs"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="cs" class="no-js"> <![endif]-->
+<html lang="cs">
+
+<head>
+    ' . constructHead($page, $getLang[$y]) . '
+    <!-- #include file = "snippets/css_js.html" -->
+         <style>
+            .flag {
+                width: 160px;
+                display: inline-block;
+                margin-bottom: 10px;
+            }
+        </style>
+</head>
+
+<body>
+
+    <!-- Container -->
+    <div id="container">
+
+        <!-- Start Header -->
+        <div class="hidden-header"></div>
+        <header class="clearfix">
+
+            <!-- Start Top Bar -->
+            <div class="top-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- Start Contact Info -->
+                            ' . constructDropDesktop($page, $getLang[$y]) . '
+                            <!-- End Contact Info -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Top Bar -->
+
+            <!-- Start Header ( Logo & Naviagtion ) -->
+            <div class="navbar navbar-default navbar-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <!-- Stat Toggle Nav Link For Mobiles -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <i class="icon-menu-1"></i>
+                            </button>
+                        <!-- End Toggle Nav Link For Mobiles -->
+                        <!-- #include file = "snippets/logo.html" -->
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        '. constructDropMobile($page, $getLang[$y]) .'
+                        <!-- #include file = "snippets/menu.html" -->
+                    </div>
+                </div>
+            </div>
+            <!-- End Header ( Logo & Naviagtion ) -->
+        </header>
+        <!-- End Header -->
+
+        <!-- Start Page Banner -->
+        '. constructBreadCrumb($page, $getLang[$y]) .'
+        <!-- End Page Banner -->
+
+
+        <!-- Start Content -->
+        <div id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="hr1" style="margin-bottom:40px;"></div>
+                        <p><span class="accent-color"><i class="icon-chat-1"></i></span> ' . $translate[0][$y] . '
+                        </p>
+                        <br />
+                        <p><span class="accent-color"><i class="icon-list-bullet"></i></span> ' . $translate[1][$y] . '
+                        </p>
+                        <br />
+                        <p><span class="accent-color"><i class="icon-wallet"></i></span> ' . $translate[2][$y] . '
+                        </p>
+                        <br />
+                        <p><span class="accent-color"><i class="icon-flag-2"></i></span> ' . $translate[3][$y] . '
+                        </p>
+                        <br />
+                        <p><span class="accent-color"><i class="icon-volume-up-1"></i></span> ' . $translate[4][$y] . '
+                        </p>
+                        <div class="hr1" style="margin-bottom:40px;"></div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">
+                                    <a class="roll" data-toggle="collapse" data-parent="#accordion" href="#collapse-1" class="">
+                                        	<i class="icon-down-open-1 control-icon"></i><i class="icon-comment-empty"></i> ' . $translate[42][$y] . '
+                                        </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-1" style="background: #FAFAFA;" class="panel-collapse in" style="height: auto;">
+                                <div class="panel-body" style="padding-top: 10px;">
+                                    <div class="wrapper" style="position: relative; margin: 0px auto;">
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-us"></span> ' . $translate[43][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-sa"></span> ' . $translate[44][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-bg"></span> ' . $translate[45][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-cn"></span> ' . $translate[46][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-dk"></span> ' . $translate[47][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-fi"></span> ' . $translate[48][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-fr"></span> ' . $translate[49][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-il"></span> ' . $translate[50][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-nl"></span> ' . $translate[51][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-hr"></span> ' . $translate[52][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-it"></span> ' . $translate[53][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-jp"></span> ' . $translate[54][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-hu"></span> ' . $translate[55][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-de"></span> ' . $translate[56][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-no"></span> ' . $translate[57][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-pl"></span> ' . $translate[58][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-pt"></span> ' . $translate[59][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-ru"></span> ' . $translate[60][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-gr"></span> ' . $translate[61][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-es"></span> ' . $translate[62][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-se"></span> ' . $translate[63][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-tr"></span> ' . $translate[64][$y] . '</div>
+                                        <div class="flag pull-left"><span style="font-size: 15pt;" class="flag-icon flag-icon-cz"></span> ' . $translate[65][$y] . '</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <h2 class="classic-title"><span>' . $translate[5][$y] . '</span></h2>
+                        <ul class="icons-list">
+                            <li><i class="icon-check-1"></i><strong>' . $translate[6][$y] . '</strong></li>
+                            <li><i class="icon-check-1"></i><strong>' . $translate[7][$y] . '</strong></li>
+                            <li><i class="icon-check-1"></i><strong>' . $translate[8][$y] . '</strong></li>
+                        </ul>
+                        <div class="hr1" style="margin-bottom:40px;"></div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">
+                                    <a class="roll" data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class=""><i class="icon-down-open-1 control-icon"></i><i class="icon-align-justify"></i> ' . $translate[9][$y] . '</a>
+                                </h3>
+                            </div>
+                            <div id="collapse-2" style="background: #FAFAFA;" class="panel-collapse in" style="height: auto;">
+                                <div class="panel-body">
+                                    <ul class="icons-list">
+                                        <li><i class="icon-comment"></i> ' . $translate[10][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">people</i> ' . $translate[11][$y] . '</li>
+                                        <li><i class="icon-help-circled"></i> ' . $translate[12][$y] . '</li>
+                                        <li><i class="icon-ajust"></i> ' . $translate[13][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">hotel</i> ' . $translate[14][$y] . '</li>
+                                        <li><i class="icon-food"></i> ' . $translate[15][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">free_breakfast</i> ' . $translate[16][$y] . '</li>
+                                        <li><i class="icon-food-1"></i> ' . $translate[17][$y] . '</li>
+                                        <li><i class="icon-food-1"></i> ' . $translate[18][$y] . '</li>
+                                        <li><i class="icon-food-1"></i> ' . $translate[19][$y] . '</li>
+                                        <li><i class="icon-food-1"></i> ' . $translate[20][$y] . '</li>
+                                        <li><i class="icon-food-1"></i> ' . $translate[21][$y] . '</li>
+                                        <li><i class="icon-food-1"></i> ' . $translate[22][$y] . '</li>
+                                        <li><i class="icon-lemon"></i> ' . $translate[23][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">local_bar</i> ' . $translate[24][$y] . '</li>
+                                        <li><i class="icon-thumbs-down"></i> ' . $translate[25][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">train</i> ' . $translate[26][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">flight_takeoff</i> ' . $translate[27][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">directions_boat</i> ' . $translate[28][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">directions_bus</i> ' . $translate[29][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">local_taxi</i> ' . $translate[30][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">directions_car</i> ' . $translate[31][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">account_balance</i> ' . $translate[32][$y] . '</li>
+                                        <li><i class="icon-note"></i> ' . $translate[33][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">local_grocery_store</i> ' . $translate[34][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">local_atm</i> ' . $translate[35][$y] . '</li>
+                                        <li><i class="icon-mail-1"></i> ' . $translate[36][$y] . '</li>
+                                        <li><i class="icon-phone-2"></i> ' . $translate[37][$y] . '</li>
+                                        <li><i class="icon-sun"></i> ' . $translate[38][$y] . '</li>
+                                        <li><i class="icon-sort-numeric"></i> ' . $translate[39][$y] . '</li>
+                                        <li>&nbsp;<i class="material-icons">local_hospital</i> ' . $translate[40][$y] . '</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="text-center col-md-12 service-box service-icon-left-more"><a href="' . $url[0] . '" class="btn-system btn-large">' . $translate[41][$y] . '</a>
+                    </div>
+                </div>
+                <!-- #include file = "snippets/offer.html" -->
+                <!-- #include file = "snippets/badge.html" -->
+                <!-- End Content -->
+            </div>
+        </div>
+    </div>
+
+    <!-- #include file = "snippets/footer.html" -->
+    <!-- End Container -->
+  </div>
+
+  <!-- Go To Top Link -->
+  <a href="#" class="back-to-top"><i class="icon-up-open-1"></i></a>
+
+  <!-- Spinner -->
+  <div id="loader">
+    <div class="spinner">
+       <div class="dot1"></div>
+       <div class="dot2"></div>
+    </div>
+  </div>
+</body>
+</html>';

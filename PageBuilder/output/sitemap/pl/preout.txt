@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/rozmowki-turystyczne"><strong>Rozmówki turystyczne</strong></a></li>
+                            <li><a href="/wlasciwosci-rozmowki"><strong>Właściwości aplikacji</strong></a>
+                                <li><a href="/jak-wyglada-rozmowki"><strong>Podgląd aplikacji<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/jak-wyglada-ipad-rozmowki">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/jak-wyglada-rozmowki-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/jak-wyglada-rozmowki-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/zastosowanie-turystyczny-rozmowki-panstwa"><strong>Zastosowanie</strong></a></li>
+                            <li><a href="/pomoc-frazy"><strong>Pomoc</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/pomoc-frazy-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/pomoc-frazy-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/pomoc-frazy-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/kontakt-frazy"><strong>Kontakty</strong></a></li>
+                        </ul>
+                        </div>

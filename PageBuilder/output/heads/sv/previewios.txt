@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Exempel på iPhone</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Resekonversationen för iPhone eller iPad gör det möjligt att studera upp till 22 språk">
+<meta name="keywords" content="demovisning av resekonversationen">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/hur-ser-ipad-konversationen-ut" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Exempel på iPhone" />
+<meta property="og:description" content="Resekonversationen för iPhone eller iPad gör det möjligt att studera upp till 22 språk" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Resekonversationen för iPhone eller iPad gör det möjligt att studera upp till 22 språk" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Exempel på iPhone" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Exempel på iPhone">
+<meta itemprop="description" content="Resekonversationen för iPhone eller iPad gör det möjligt att studera upp till 22 språk" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

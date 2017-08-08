@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>サポートと旅行会話の FAQ</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="又はのアプリケーショントラブルの場合は、私達に聞いてください。私達がサポート致します。">
+<meta name="keywords" content="FAQ サポート アプリケーション">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/ja-support-phrase" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="サポートと旅行会話の FAQ" />
+<meta property="og:description" content="又はのアプリケーショントラブルの場合は、私達に聞いてください。私達がサポート致します。" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="又はのアプリケーショントラブルの場合は、私達に聞いてください。私達がサポート致します。" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="サポートと旅行会話の FAQ" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="サポートと旅行会話の FAQ">
+<meta itemprop="description" content="又はのアプリケーショントラブルの場合は、私達に聞いてください。私達がサポート致します。" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

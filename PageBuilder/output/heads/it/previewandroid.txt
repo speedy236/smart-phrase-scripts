@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Android: Dimonstrazione</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Conversazione da Viaggio permette di studiare fino a 22 lingue">
+<meta name="keywords" content="dimostrazione, conversazione, viaggio, android">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/presentazione-conversazione-android" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Android: Dimonstrazione" />
+<meta property="og:description" content="Conversazione da Viaggio permette di studiare fino a 22 lingue" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Conversazione da Viaggio permette di studiare fino a 22 lingue" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Android: Dimonstrazione" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Android: Dimonstrazione">
+<meta itemprop="description" content="Conversazione da Viaggio permette di studiare fino a 22 lingue" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

@@ -1,0 +1,29 @@
+<div class="dropdown" id="language-switch">
+	<button class="btn btn-default btn-sm" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+		<i class="flag-icon flag-icon-cz"></i> Česky
+	</button>
+	<ul class="dropdown-menu" aria-labelledby="drwnopdoMenu1">
+		<li><a href="/hvordan-ser-konversation-ud-windows8"><i class="flag-icon flag-icon-dk"></i> Dansk</a></li>
+		<li><a href="/wie-der-sprachfuehrer-aussieht-windows8"><i class="flag-icon flag-icon-de"></i> Deutsch</a></li>
+		<li><a href="/how-appears-phrasebook-windows8"><i class="flag-icon flag-icon-us"></i> English</a></li>
+		<li><a href="/como-es-conversacion-windows8"><i class="flag-icon flag-icon-es"></i> Español</a></li>
+		<li><a href="/a-quoi-ressemble-conversations-windows8"><i class="flag-icon flag-icon-fr"></i> Français</a></li>
+		<li><a href="/kako-izgleda-frazeologija-windows8"><i class="flag-icon flag-icon-hr"></i> Hrvatski</a></li>
+		<li><a href="/presentazione-conversazione-windows8"><i class="flag-icon flag-icon-it"></i> Italiano</a></li>
+		<li><a href="/hogy-nez-ki-utiszotar-windows8"><i class="flag-icon flag-icon-hu"></i> Magyar</a></li>
+		<li><a href="/hoe-ziet-de-conversatie-eruit-windows8"><i class="flag-icon flag-icon-nl"></i> Nederlands</a></li>
+		<li><a href="/hvordan-synes-reiseordbok-windows8"><i class="flag-icon flag-icon-no"></i> Norsk</a></li>
+		<li><a href="/jak-wyglada-rozmowki-windows8"><i class="flag-icon flag-icon-pl"></i> Polski</a></li>
+		<li><a href="/como-se-apresenta-conversacao-windows8"><i class="flag-icon flag-icon-pt"></i> Português</a></li>
+		<li><a href="/milta-nayttaa-fraasisanakirja-windows8"><i class="flag-icon flag-icon-fi"></i> Suomeksi</a></li>
+		<li><a href="/hur-ser-konversationen-ut-windows8"><i class="flag-icon flag-icon-se"></i> Svenska</a></li>
+		<li><a href="/konusma-nasil-gorunur-windows8"><i class="flag-icon flag-icon-tr"></i> Türkçe</a></li>
+		<li><a href="/pos-fainetai-sinomilia-windows8"><i class="flag-icon flag-icon-gr"></i> Ελληνικά</a></li>
+		<li><a href="/kak-izglezda-razgovornik-windows8"><i class="flag-icon flag-icon-bg"></i> български</a></li>
+		<li><a href="/ru-how-appears-conversation-windows8"><i class="flag-icon flag-icon-ru"></i> Русский</a></li>
+		<li><a href="/he-how-appears-phrasebook-windows8"><i class="flag-icon flag-icon-il"></i> עברית</a></li>
+		<li><a href="/kifa-jabdu-aibarat-windows8"><i class="flag-icon flag-icon-sa"></i> العربية</a></li>
+		<li><a href="/china-how-appears-phrasebook-windows8"><i class="flag-icon flag-icon-cn"></i> 中文</a></li>
+		<li><a href="/ja-how-appears-conversation-windows8"><i class="flag-icon flag-icon-jp"></i> 日本語</a></li>
+	</ul>
+</div>

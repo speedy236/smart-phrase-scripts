@@ -1,0 +1,17 @@
+<div class="page-banner" style="padding:40px 0; background: url(../../images/travelers-phrasebook-banner.jpg) center #f9f9f9;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h1>iOS: Támogatás az útiszótár használatához és FAQ</h1>
+				<p></p>
+			</div>
+			<div class="col-md-8">
+					<ul class="breadcrumbs">
+						<li><a href="/utiszotar">Bevezetés az SmartPhrase-hez</a></li>
+						<li><a href="/segitseg-kifejezes">Támogatás az útiszótár használatához és FAQ</a></li>
+						<li>iOS: Támogatás az útiszótár használatához és FAQ</li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</div>

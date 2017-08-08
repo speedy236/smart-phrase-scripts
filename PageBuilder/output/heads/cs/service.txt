@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Servisní stránka</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Co o vás prozrazuje váš počítač a prohlížeč.">
+<meta name="keywords" content="service, page, service page">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/servisni-stranka" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Servisní stránka" />
+<meta property="og:description" content="Co o vás prozrazuje váš počítač a prohlížeč." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Co o vás prozrazuje váš počítač a prohlížeč." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Servisní stránka" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Servisní stránka">
+<meta itemprop="description" content="Co o vás prozrazuje váš počítač a prohlížeč." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/patnicheski-razgovornik"><strong>Пътнически разговорник</strong></a></li>
+                            <li><a href="/svojstvai-razgovornik"><strong>Свойства на приложението</strong></a>
+                                <li><a href="/kak-izglezda-razgovornik"><strong>Изглед на приложението<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/kak-izglezda-ipad-razgovornik">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/kak-izglezda-razgovornik-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/kak-izglezda-razgovornik-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/prilozenia-patnicheski-razgovornik-darzavi"><strong>Приложения</strong></a></li>
+                            <li><a href="/poddrazka-fraza"><strong>Поддръжка</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/poddrazka-fraza-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/poddrazka-fraza-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/poddrazka-fraza-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/kontakt-fraza"><strong>Контакти</strong></a></li>
+                        </ul>
+                        </div>

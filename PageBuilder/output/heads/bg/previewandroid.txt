@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Android: Представяне</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Ако имате проблеми с приложението, попитайте ни, и ние ще ви помогнем.">
+<meta name="keywords" content="представяне, пътнически разговорник, android">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/kak-izglezda-razgovornik-android" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Android: Представяне" />
+<meta property="og:description" content="Ако имате проблеми с приложението, попитайте ни, и ние ще ви помогнем." />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ако имате проблеми с приложението, попитайте ни, и ние ще ви помогнем." />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Android: Представяне" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Android: Представяне">
+<meta itemprop="description" content="Ако имате проблеми с приложението, попитайте ни, и ние ще ви помогнем." />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

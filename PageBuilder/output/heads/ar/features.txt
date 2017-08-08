@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>خصائص العبارات المستخدمة في السفر</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="تطبيق العبارات المستخدمة في السفر لـ يحتوي على 22 لغة">
+<meta name="keywords" content="خصائص ,عبارات ,السفر">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/chsais-aibarat" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="خصائص العبارات المستخدمة في السفر" />
+<meta property="og:description" content="تطبيق العبارات المستخدمة في السفر لـ يحتوي على 22 لغة" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="تطبيق العبارات المستخدمة في السفر لـ يحتوي على 22 لغة" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="خصائص العبارات المستخدمة في السفر" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="خصائص العبارات المستخدمة في السفر">
+<meta itemprop="description" content="تطبيق العبارات المستخدمة في السفر لـ يحتوي على 22 لغة" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+

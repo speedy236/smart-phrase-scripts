@@ -1,0 +1,33 @@
+<div class="sitemap-content col-md-12">
+                        <ul class="icons-list">
+                            <li><a href="/reise-sprachfuehrer"><strong>Reisesprachführer</strong></a></li>
+                            <li><a href="/eigenschaften-sprachfuehrer"><strong>Eigenschaften der App</strong></a>
+                                <li><a href="/wie-der-sprachfuehrer-aussieht"><strong>Ansicht der App<strong></a></li>
+                                <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/wie-der-ipad-sprachfuehrer-aussieht">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/wie-der-sprachfuehrer-aussieht-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/wie-der-sprachfuehrer-aussieht-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="/anwendung-reise-sprachfuehrer-staaten"><strong>Anwendung</strong></a></li>
+                            <li><a href="/support-phrasen"><strong>Support</strong></a></li>
+                            <ul class="icons-list">
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/support-phrasen-iphone">Apple<sup>&#174;</sup> (iOS)</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/support-phrasen-android">Android&trade;</a>
+                                    </li>
+                                    <li>
+                                        <i class="icon-angle-right"></i><a href="/support-phrasen-windows8">Windows<sup>&#174;</sup> 8</a>
+                                    </li>
+                            </ul>
+                            <li><a href="/kontakt-phrase"><strong>Kontaktinformationen</strong></a></li>
+                        </ul>
+                        </div>

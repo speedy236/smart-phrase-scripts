@@ -1,0 +1,32 @@
+<!-- Title -->
+
+<title>Próbka na iPhonie</title>
+
+<!-- Meta tags -->
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Rozmówki turystyczne na iPhone‘a czy iPada umożliwiają naukę aż 22 języków">
+<meta name="keywords" content="próbka demo rozmówki turystyczne">
+<meta name="author" content="Euvit, s.r.o.">
+
+<!-- OpenGraph tags -->
+
+<meta property="og:url" content="http://www.smart-phrase.com/jak-wyglada-ipad-rozmowki" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Próbka na iPhonie" />
+<meta property="og:description" content="Rozmówki turystyczne na iPhone‘a czy iPada umożliwiają naukę aż 22 języków" />
+<meta property="og:image" content="http://www.smart-phrase.com/images/og.jpg" />
+
+<!-- Twitter tags -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Rozmówki turystyczne na iPhone‘a czy iPada umożliwiają naukę aż 22 języków" />
+<meta name="twitter:image" content="http://www.smart-phrase.com/images/og.jpg" />
+<meta name="twitter:title" content="Próbka na iPhonie" />
+
+<!-- Other -->
+
+<meta itemprop="name" content="Próbka na iPhonie">
+<meta itemprop="description" content="Rozmówki turystyczne na iPhone‘a czy iPada umożliwiają naukę aż 22 języków" />
+<meta itemprop="image" content="http://www.smart-phrase.com/images/og.jpg">
+
