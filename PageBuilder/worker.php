@@ -67,6 +67,11 @@ function constructBreadCrumb($page, $language){
     return file_get_contents($path);
 }
 
+function constructUse($page, $language){
+    $path = 'output/use/' . $language . '.txt';
+    return file_get_contents($path);
+}
+
 function getVlastnostiButton($language, $type){
     global $obsah;
     for($a = 0; $a < count($obsah); $a++){
@@ -131,9 +136,13 @@ for($y = 0; $y < 23; $y++){
 <head>
     ' . constructHead($page, $getLang[$y]) . '
     <!-- #include file = "snippets/css_js.html" -->
+ 
+    <script type="text/javascript" src="../../js/use.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../css/use.css" media="screen">
 </head>
 
 <body>
+
     <!-- Container -->
     <div id="container">
 
@@ -146,7 +155,6 @@ for($y = 0; $y < 23; $y++){
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <!-- Start Contact Info -->
                             ' . constructDropDesktop($page, $getLang[$y]) . '
                             <!-- End Contact Info -->
                         </div>
@@ -161,8 +169,8 @@ for($y = 0; $y < 23; $y++){
                     <div class="navbar-header">
                         <!-- Stat Toggle Nav Link For Mobiles -->
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                          <i class="icon-menu-1"></i>
-                      </button>
+                                <i class="icon-menu-1"></i>
+                            </button>
                         <!-- End Toggle Nav Link For Mobiles -->
                         <!-- #include file = "snippets/logo.html" -->
                     </div>
@@ -180,111 +188,85 @@ for($y = 0; $y < 23; $y++){
         ' . constructBreadCrumb($page, $getLang[$y]) . '
         <!-- End Page Banner -->
 
+
         <!-- Start Content -->
         <div id="content">
             <div class="container">
-                <!-- START Description -->
-                <div class="row" style="margin-bottom: 20px">
+                <div class="row">
                     <div class="col-md-12">
-                        <p>' . $translate[0][$y] . '
+                        <h2 class="classic-title">' . $translate[0][$y] . '</h2>
+                        <p>
+                           ' . $translate[1][$y] . '
                         </p>
                     </div>
-                </div>
-                <!-- END Description -->
-                <!-- START Screenshot -->
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <img alt="Languages" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_languages_android.png">
-                    </div>
-                </div>
-                <!-- END Screenshot -->
-
-                <!-- Divider -->
-                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
-
-                <!-- START Description -->
-                <div class="row" style="margin-bottom: 20px">
+                    <br />                       
                     <div class="col-md-12">
-                        <p>' . $translate[1][$y] . '
-                        </p>
+                        <div class="dropdown">
+                            <button class="btn btn-default btn-sm langselect" type="button" data-toggle="dropdown">' . $translate[2][$y] . ' <span class="caret"></span></button>
+                            <ul class="dropdown-menu">
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".cz" class="">' . $translate[25][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".us" class="">' . $translate[3][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".de">' . $translate[16][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".fr">' . $translate[9][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".es">' . $translate[22][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".it">' . $translate[13][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".ru">' . $translate[20][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".hr">' . $translate[12][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".pl">' . $translate[18][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".hu">' . $translate[15][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".gr">' . $translate[21][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".nl">' . $translate[11][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".tr">' . $translate[24][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".pt">' . $translate[19][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".dk">' . $translate[7][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".fi">' . $translate[8][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".no">' . $translate[17][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".se">' . $translate[23][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".bg">' . $translate[5][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".sa">' . $translate[4][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".jp">' . $translate[14][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".cn">' . $translate[6][$y] . '</a></li>
+                                <li><a onClick="a_onClick($(this).attr(\'data-filter\').substring(1), $(this).text())" href="#"
+                                        data-filter=".il">' . $translate[10][$y] . '</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-                <!-- END Description -->
-                <!-- START Screenshot -->
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <img alt="Topics" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_topics_android.png">
-                    </div>
-                </div>
-                <!-- END Screenshot -->
-
-                <!-- Divider -->
                 <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
-
-                <!-- START Description -->
-                <div class="row" style="margin-bottom: 20px">
-                    <div class="col-md-12">
-                        <p>' . $translate[2][$y] . '</p>
-                    </div>
+                <div class="center-block">
+                    ' . constructUse($page, $getLang[$y]) . '
+                    <div class="clearfix"></div>
                 </div>
-                <!-- END Description -->
-                <!-- START Screenshot -->
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <img alt="Sentences" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_sentences_android.png">
-                    </div>
-                </div>
-                <!-- END Screenshot -->
-
-                <!-- Divider -->
-                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
-
-                <!-- START Description -->
-                <div class="row" style="margin-bottom: 20px">
-                    <div class="col-md-12">
-                        <p>' . $translate[3][$y] . '</p>
-                    </div>
-                </div>
-                <!-- END Description -->
-                <!-- START Screenshot -->
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <img alt="Sentence" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_sentence_android.png">
-                    </div>
-                </div>
-                <!-- END Screenshot -->
-
-                <!-- Divider -->
-                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
-
-                <!-- START Description -->
-                <div class="row" style="margin-bottom: 20px">
-                    <div class="col-md-12">
-                        <p>' . $translate[4][$y] . '</p>
-                    </div>
-                </div>
-                <!-- END Description -->
-                <!-- START Screenshot -->
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <img alt="Settings" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_settings_android.png">
-                    </div>
-                </div>
-                <!-- END Screenshot -->
-
                 <!-- #include file = "snippets/offer.html" -->
                 <!-- #include file = "snippets/badge.html" -->
+                <!-- End Content -->
             </div>
-
-
         </div>
+        <!-- #include file = "snippets/footer.html" -->
     </div>
-    <!-- End Content -->
-
-    <!-- #include file = "snippets/footer.html" -->
-    </div>
-
-
+    <!-- End Container -->
     <!-- Go To Top Link -->
     <a href="#" class="back-to-top"><i class="icon-up-open-1"></i></a>
 
@@ -294,10 +276,10 @@ for($y = 0; $y < 23; $y++){
             <div class="dot2"></div>
         </div>
     </div>
+
 </body>
 
 </html>';
-    
         
     if(!is_dir('pages/' . $getLang[$y] . '/')){
         mkdir('pages/' . $getLang[$y] . '/', 0777, true);

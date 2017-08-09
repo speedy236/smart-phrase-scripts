@@ -25,10 +25,36 @@ $getLang = array(
             22 => 'ja');
 
 $in = file_get_contents('logo.tsv');
-$value = preg_split("/[\t]/", $in);
+$hodnota = preg_split("/[\t]/", $in);
+
+$obsahHandler = file_get_contents('input.tsv');
+$obsah = explode("\n", $obsahHandler);
+
+foreach ($obsah as &$value) {
+    $value = preg_split("/[\t]/", $value);
+}
+
+function getNoticeCode($notice, $type){ //$type 0: Číslo notice, 1: Obsah notice
+    $values = explode(':', $notice);
+    if($type == 0){
+        return preg_replace('/\s+/', '', $values[0]);
+    }elseif($type == 1){
+        return substr($values[1], 1);
+    }  
+}
+
+function getLangShortcode($string){ // Získání ISO kódu jazyka
+    return substr($string, 0, -3);  
+}
 
 for($i = 0; $i < 23; $i++){
-    $row = '<a class="navbar-brand" href="http://www.smart-phrase.com/"><span class="accent-color">' . $value[$i] . '</span></a>';
+    $url = '';
+    for($y = 0; $y < count($obsah); $y++){
+        if(getLangShortcode($obsah[$y][0]) == $getLang[$i] && getNoticeCode($obsah[$y][6], 0) == 'A1'){
+            $url = $obsah[$y][2];
+        }
+    }
+    $row = '<a class="navbar-brand" href="' . $url . '"><span class="accent-color">' . $hodnota[$i] . '</span></a>';
     if(!is_dir('output/' . $getLang[$i] . '/snippets/')){
    	mkdir('output/' . $getLang[$i] . '/snippets/', 0777, true);
     }
