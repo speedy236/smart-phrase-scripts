@@ -129,118 +129,175 @@ for($y = 0; $y < 23; $y++){
 <html lang="cs">
 
 <head>
-  ' . constructHead($page, $getLang[$y]) . '
-  <!-- #include file = "snippets/css_js.html" -->
+    ' . constructHead($page, $getLang[$y]) . '
+    <!-- #include file = "snippets/css_js.html" -->
 </head>
 
 <body>
-  <!-- Container -->
-  <div id="container">
+    <!-- Container -->
+    <div id="container">
 
-    <!-- Start Header -->
-    <div class="hidden-header"></div>
-    <header class="clearfix">
+        <!-- Start Header -->
+        <div class="hidden-header"></div>
+        <header class="clearfix">
 
-      <!-- Start Top Bar -->
-      <div class="top-bar">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <!-- Start Contact Info -->
-              ' . constructDropDesktop($page, $getLang[$y]) . '
-              <!-- End Contact Info -->
+            <!-- Start Top Bar -->
+            <div class="top-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!-- Start Contact Info -->
+                            ' . constructDropDesktop($page, $getLang[$y]) . '
+                            <!-- End Contact Info -->
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <!-- End Top Bar -->
+            <!-- End Top Bar -->
 
-      <!-- Start Header ( Logo & Naviagtion ) -->
-      <div class="navbar navbar-default navbar-top">
-        <div class="container">
-          <div class="navbar-header">
-            <!-- Stat Toggle Nav Link For Mobiles -->
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <!-- Start Header ( Logo & Naviagtion ) -->
+            <div class="navbar navbar-default navbar-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <!-- Stat Toggle Nav Link For Mobiles -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                           <i class="icon-menu-1"></i>
                       </button>
-            <!-- End Toggle Nav Link For Mobiles -->
-            <!-- #include file = "snippets/logo.html" -->
-          </div>
-          <div class="navbar-collapse collapse">
-            ' . constructDropMobile($page, $getLang[$y]) . '
-            <!-- #include file = "snippets/menu.html" -->
-          </div>
-        </div>
-      </div>
-      <!-- End Header ( Logo & Naviagtion ) -->
-    </header>
-    <!-- End Header -->
+                        <!-- End Toggle Nav Link For Mobiles -->
+                        <!-- #include file = "snippets/logo.html" -->
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        ' . constructDropMobile($page, $getLang[$y]) . '
+                        <!-- #include file = "snippets/menu.html" -->
+                    </div>
+                </div>
+            </div>
+            <!-- End Header ( Logo & Naviagtion ) -->
+        </header>
+        <!-- End Header -->
 
-    <!-- Start Page Banner -->
-    ' . constructBreadCrumb($page, $getLang[$y]) . '
-    <!-- End Page Banner -->
+        <!-- Start Page Banner -->
+        ' . constructBreadCrumb($page, $getLang[$y]) . '
+        <!-- End Page Banner -->
 
-    <!-- Start Content -->
-    <div id="content">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12" style="margin-bottom: 20px">
-            <p>' . $translate[0][$y] . '</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 text-center"><img alt="Languages" src="/lang/' . $getLang[$y] . '/images/travelers_phrasebook_languages_iphone.png"
-              width="310"></div>
-          <div class="col-md-6 text-center"><img alt="Languages" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_languages_ipad.png"
-              width="500"></div>
-        </div>
-        <div class="hr5" style="margin-top:30px; margin-bottom:30px;"></div>
-        <div class="row">
-          <div class="col-md-12" style="margin-bottom: 20px">
-            <p>' . $translate[1][$y] . '</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 text-center"><img alt="Sentence" src="/lang/' . $getLang[$y] . '/images/travelers_phrasebook_sentence_iphone.png"
-              width="310"></div>
-          <div class="col-md-6 text-center"><img alt="Sentence" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_sentence_ipad.png"
-              width="500"></div>
-        </div>
-        <div class="hr5" style="margin-top:30px; margin-bottom:30px;"></div>
-        <div class="row">
-          <div class="col-md-12" style="margin-bottom: 20px">
-            <p>' . $translate[2][$y] . '</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 text-center"><img alt="Settings" src="/lang/' . $getLang[$y] . '/images/travelers_phrasebook_settings_iphone.png"
-              width="310"></div>
-          <div class="col-md-6 text-center"><img alt="Settings" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_settings_ipad.png"
-              width="500"></div>
-        </div>
+        <!-- Start Content -->
+        <div id="content">
+            <div class="container">
+                <!-- START Description -->
+                <div class="row" style="margin-bottom: 20px">
+                    <div class="col-md-12">
+                        <p>' . $translate[0][$y] . '
+                        </p>
+                    </div>
+                </div>
+                <!-- END Description -->
+                <!-- START Screenshot -->
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <img alt="Languages" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_languages_android.png">
+                    </div>
+                </div>
+                <!-- END Screenshot -->
 
-        <!-- #include file = "snippets/offer.html" -->
-        <!-- #include file = "snippets/badge.html" -->
-      </div>
+                <!-- Divider -->
+                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
+
+                <!-- START Description -->
+                <div class="row" style="margin-bottom: 20px">
+                    <div class="col-md-12">
+                        <p>' . $translate[1][$y] . '
+                        </p>
+                    </div>
+                </div>
+                <!-- END Description -->
+                <!-- START Screenshot -->
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <img alt="Topics" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_topics_android.png">
+                    </div>
+                </div>
+                <!-- END Screenshot -->
+
+                <!-- Divider -->
+                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
+
+                <!-- START Description -->
+                <div class="row" style="margin-bottom: 20px">
+                    <div class="col-md-12">
+                        <p>' . $translate[2][$y] . '</p>
+                    </div>
+                </div>
+                <!-- END Description -->
+                <!-- START Screenshot -->
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <img alt="Sentences" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_sentences_android.png">
+                    </div>
+                </div>
+                <!-- END Screenshot -->
+
+                <!-- Divider -->
+                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
+
+                <!-- START Description -->
+                <div class="row" style="margin-bottom: 20px">
+                    <div class="col-md-12">
+                        <p>' . $translate[3][$y] . '</p>
+                    </div>
+                </div>
+                <!-- END Description -->
+                <!-- START Screenshot -->
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <img alt="Sentence" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_sentence_android.png">
+                    </div>
+                </div>
+                <!-- END Screenshot -->
+
+                <!-- Divider -->
+                <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
+
+                <!-- START Description -->
+                <div class="row" style="margin-bottom: 20px">
+                    <div class="col-md-12">
+                        <p>' . $translate[4][$y] . '</p>
+                    </div>
+                </div>
+                <!-- END Description -->
+                <!-- START Screenshot -->
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <img alt="Settings" src="../../lang/' . $getLang[$y] . '/images/travelers_phrasebook_settings_android.png">
+                    </div>
+                </div>
+                <!-- END Screenshot -->
+
+                <!-- #include file = "snippets/offer.html" -->
+                <!-- #include file = "snippets/badge.html" -->
+            </div>
+
+
+        </div>
     </div>
     <!-- End Content -->
 
     <!-- #include file = "snippets/footer.html" -->
-  </div>
-
-
-  <!-- Go To Top Link -->
-  <a href="#" class="back-to-top"><i class="icon-up-open-1"></i></a>
-
-  <div id="loader">
-    <div class="spinner">
-      <div class="dot1"></div>
-      <div class="dot2"></div>
     </div>
-  </div>
+
+
+    <!-- Go To Top Link -->
+    <a href="#" class="back-to-top"><i class="icon-up-open-1"></i></a>
+
+    <div id="loader">
+        <div class="spinner">
+            <div class="dot1"></div>
+            <div class="dot2"></div>
+        </div>
+    </div>
 </body>
 
 </html>';
+    
         
     if(!is_dir('pages/' . $getLang[$y] . '/')){
         mkdir('pages/' . $getLang[$y] . '/', 0777, true);
