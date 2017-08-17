@@ -26,9 +26,11 @@ $getLang = array(
             22 => 'ja');
 
 for($i = 0; $i < 23; $i++){
-if(!is_dir('output/' . $getLang[$i] . '/images/')){
-    	mkdir('output/' . $getLang[$i] . '/images/', 0777, true);
+if(!is_dir('output/' . $getLang[$i] . '/snippets/')){
+    	mkdir('output/' . $getLang[$i] . '/snippets/', 0777, true);
 }
+
+copy('contact_form.asp', 'output/' . $getLang[$i] . '/snippets/contact_form.asp');
 }
 
 

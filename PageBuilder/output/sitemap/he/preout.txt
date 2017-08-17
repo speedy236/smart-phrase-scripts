@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/he-travel-phrasebook"><strong>שיחון לתייר</strong></a></li>
-                            <li><a href="/he-features-phrasebook"><strong>תכונות היישום</strong></a>
-                                <li><a href="/he-how-appears-phrasebook"><strong>תצוגת היישום<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/he-how-appears-ipad-phrasebook">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/he-how-appears-phrasebook-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/he-how-appears-phrasebook-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/he-practise-travel-phrasebook-states"><strong>שימוש</strong></a></li>
-                            <li><a href="/he-support-phrase"><strong>תמיכה</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/he-support-phrase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/he-support-phrase-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/he-support-phrase-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/he-contact-phrase"><strong>צור קשר</strong></a></li>
-                        </ul>
-                        </div>

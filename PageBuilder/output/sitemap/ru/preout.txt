@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/ru-travel-conversation"><strong>Разговорник для путешествий</strong></a></li>
-                            <li><a href="/ru-features-conversation"><strong>Качество приложения</strong></a>
-                                <li><a href="/ru-how-appears-conversation"><strong>Вид приложения<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ru-how-appears-ipad-conversation">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ru-how-appears-conversation-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ru-how-appears-conversation-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/ru-practise-travel-conversation-states"><strong>Использование</strong></a></li>
-                            <li><a href="/ru-support-phrase"><strong>Поддержка</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ru-support-phrase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ru-support-phrase-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ru-support-phrase-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/ru-contact-phrase"><strong>Контакты</strong></a></li>
-                        </ul>
-                        </div>

@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/seyahat-konusma-kilavuzu"><strong>Seyahat konuşma kılavuzu</strong></a></li>
-                            <li><a href="/ozellikler-konusma"><strong>Uygulama özellikleri</strong></a>
-                                <li><a href="/konusma-nasil-gorunur"><strong>Uygulama önizleme<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/ipad-konusma-nasil-gorunur">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/konusma-nasil-gorunur-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/konusma-nasil-gorunur-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/pratik-seyahat-konusma-devletler"><strong>Pratik</strong></a></li>
-                            <li><a href="/destek-ifade"><strong>Destek</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/destek-ifade-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/destek-ifade-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/destek-ifade-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/iletisim-ifade"><strong>İletişim bilgileri</strong></a></li>
-                        </ul>
-                        </div>

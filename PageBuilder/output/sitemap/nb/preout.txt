@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/reiseordbok"><strong>Reiseordbok</strong></a></li>
-                            <li><a href="/egenskaper-konversasjon"><strong>Egenskaper av applikasjonen</strong></a>
-                                <li><a href="/hvordan-synes-reiseordbok"><strong>Prøveforestilling av applikasjonen<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/hvordan-synes-ipad-reiseordbok">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/hvordan-synes-reiseordbok-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/hvordan-synes-reiseordbok-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/praksis-reiseordbok-land"><strong>Praksis</strong></a></li>
-                            <li><a href="/support-frase"><strong>Support</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/support-frase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/support-frase-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/support-frase-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/kontakt-frase"><strong>Kontakter</strong></a></li>
-                        </ul>
-                        </div>

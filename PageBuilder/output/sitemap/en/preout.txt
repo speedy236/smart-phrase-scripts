@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/travel-phrasebook"><strong>Traveler’s phrasebook</strong></a></li>
-                            <li><a href="/features-phrasebook"><strong>Features</strong></a>
-                                <li><a href="/how-appears-phrasebook"><strong>Preview<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/how-appears-ipad-phrasebook">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/how-appears-phrasebook-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/how-appears-phrasebook-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/practise-travel-phrasebook-states"><strong>Practical usage</strong></a></li>
-                            <li><a href="/support-phrase"><strong>Support</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/support-phrase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/support-phrase-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/support-phrase-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/contact-phrase"><strong>Contacts</strong></a></li>
-                        </ul>
-                        </div>

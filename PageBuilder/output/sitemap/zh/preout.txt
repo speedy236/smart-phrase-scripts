@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/china-traveler-phrasebook"><strong>旅行常用会话指南</strong></a></li>
-                            <li><a href="/china-features-phrasebook"><strong>应用程序特色</strong></a>
-                                <li><a href="/china-how-appears-phrasebook"><strong>应用程序预览<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/china-how-appears-ipad-phrasebook">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/china-how-appears-phrasebook-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/china-how-appears-phrasebook-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/china-practice-travel-phrasebook-states"><strong>练习</strong></a></li>
-                            <li><a href="/china-support-phrase"><strong>支持</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/china-support-phrase-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/china-support-phrase-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/china-support-phrase-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/china-contact-phrase"><strong>联系人</strong></a></li>
-                        </ul>
-                        </div>

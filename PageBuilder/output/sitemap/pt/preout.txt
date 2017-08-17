@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/conversacao-para-viagens"><strong>Conversação para viagens</strong></a></li>
-                            <li><a href="/caracteristicas-conversacao"><strong>Características da aplicação</strong></a>
-                                <li><a href="/como-se-apresenta-conversacao"><strong>Apresentação da aplicação<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/como-se-apresenta-ipad-conversacao">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/como-se-apresenta-conversacao-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/como-se-apresenta-conversacao-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/pratica-conversacao-viagem-estados"><strong>Prática</strong></a></li>
-                            <li><a href="/suporte-locucao"><strong>Suporte</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/suporte-locucao-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/suporte-locucao-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/suporte-locucao-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/contacto-locucao"><strong>Contactos</strong></a></li>
-                        </ul>
-                        </div>

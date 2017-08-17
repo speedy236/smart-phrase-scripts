@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/utiszotar"><strong>Útiszótár</strong></a></li>
-                            <li><a href="/utiszotar-tulajdonsagai"><strong>Az alkalmazás tulajdonságai</strong></a>
-                                <li><a href="/hogy-nez-ki-utiszotar"><strong>Alkalmazás kinézete<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/hogy-nez-ki-ipad-utiszotar">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/hogy-nez-ki-utiszotar-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/hogy-nez-ki-utiszotar-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/ervenyesites-utiszotar-orszagok"><strong>Érvényesítés</strong></a></li>
-                            <li><a href="/segitseg-kifejezes"><strong>Támogatás</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/segitseg-kifejezes-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/segitseg-kifejezes-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/segitseg-kifejezes-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/kapcsolat-kifejezes"><strong>Kapcsolatok</strong></a></li>
-                        </ul>
-                        </div>

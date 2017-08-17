@@ -1,33 +1,0 @@
-<div class="sitemap-content col-md-12">
-                        <ul class="icons-list">
-                            <li><a href="/safr-aibarat"><strong>عبارات تستخدم في السفر</strong></a></li>
-                            <li><a href="/chsais-aibarat"><strong>خصائص التطبيق</strong></a>
-                                <li><a href="/kifa-jabdu-aibarat"><strong>عرض التطبيق<strong></a></li>
-                                <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/kifa-jabdu-ipad-aibarat">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/kifa-jabdu-aibarat-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/kifa-jabdu-aibarat-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="/istichdam-safr-aibarat-dul"><strong>استخدام</strong></a></li>
-                            <li><a href="/aldaim-mrhala"><strong>الدعم</strong></a></li>
-                            <ul class="icons-list">
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/aldaim-mrhala-iphone">Apple<sup>&#174;</sup> (iOS)</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/aldaim-mrhala-android">Android&trade;</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-angle-right"></i><a href="/aldaim-mrhala-windows8">Windows<sup>&#174;</sup> 8</a>
-                                    </li>
-                            </ul>
-                            <li><a href="/itsil-bina-mustalh"><strong>العناوين</strong></a></li>
-                        </ul>
-                        </div>
